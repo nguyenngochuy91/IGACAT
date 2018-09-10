@@ -18,7 +18,13 @@ class Permutations(object):
 class Genes(object):
     def __init__(self,fasta= "phaseI_midyearpulse_whole_nt.fasta" ):
         try:
-            self.record = list(SeqIO.parse(fasta,"fasta"))
+            record = list(SeqIO.parse(fasta,"fasta"))
+            self.record = []
+            for r in record:
+                seq = r.seq.translate().strip("*")
+                seq = str(seq).replace("*","")
+                id  = r.id
+                self.record.append([id,seq])
         except:
             self.record = []
             print ("Either file is mal-formated, or different version of Python\n")
