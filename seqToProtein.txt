@@ -1,0 +1,2102 @@
+{
+    "Seq6394": [
+        "AAF79734", 
+        100.0, 
+        1.2e-33, 
+        "BLOSUM90", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq1875": [
+        "AAR37016", 
+        100.0, 
+        1.6e-24, 
+        "BLOSUM65", 
+        "Pachysolen_tannophilus_Nuclear"
+    ], 
+    "Seq7956": [
+        "ACH70901", 
+        100.0, 
+        0.042, 
+        "BLOSUM90", 
+        "Mycoplasma"
+    ], 
+    "Seq1872": [
+        "AAR37016", 
+        100.0, 
+        7.6e-27, 
+        "BLOSUM85", 
+        "Spiroplasma"
+    ], 
+    "Seq1210": [
+        "AAC97205", 
+        100.0, 
+        1.8e-18, 
+        "PAM120", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq10003": [
+        "ABD33854", 
+        100.0, 
+        0.54, 
+        "PAM120", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq479": [
+        "CAA36714", 
+        100.0, 
+        1e-11, 
+        "BLOSUM90", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq1880": [
+        "AAR37016", 
+        100.0, 
+        1.9e-16, 
+        "PAM140", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq8221": [
+        "AAA24145", 
+        100.0, 
+        3.1e-86, 
+        "PAM110", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7317": [
+        "CAA24711", 
+        100.0, 
+        1.4e-52, 
+        "blosum100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7734": [
+        "ABG75784", 
+        100.0, 
+        4.3e-73, 
+        "BLOSUM90", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq9236": [
+        "AAB66912", 
+        100.0, 
+        7.1e-16, 
+        "BLOSUM70", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq6245": [
+        "CAL82360", 
+        100.0, 
+        5.5e-36, 
+        "BLOSUM90", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10001": [
+        "BAA32991", 
+        100.0, 
+        0.13, 
+        "blosum100", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq6329": [
+        "AAF79734", 
+        100.0, 
+        1.8e-31, 
+        "BLOSUM50", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7905": [
+        "BAA32991", 
+        100.0, 
+        8.6e-57, 
+        "PAM110", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7953": [
+        "CAB75732", 
+        100.0, 
+        1.2e-20, 
+        "BLOSUM40", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq10020": [
+        "AAA32624", 
+        100.0, 
+        0.28, 
+        "BLOSUM55", 
+        "SGC4"
+    ], 
+    "Seq5806": [
+        "AAQ92751", 
+        100.0, 
+        4.4e-14, 
+        "PAM200", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq7623": [
+        "AAR37016", 
+        100.0, 
+        1.3e-65, 
+        "BLOSUM65", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq1071": [
+        "AAC08817", 
+        100.0, 
+        1.4e-14, 
+        "BLOSUM80", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq1072": [
+        "AAC08817", 
+        100.0, 
+        7.9e-09, 
+        "PAM100", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq1431": [
+        "CAA36214", 
+        100.0, 
+        3.9e-21, 
+        "BLOSUM70", 
+        "SGC5"
+    ], 
+    "Seq162": [
+        "CAA45708", 
+        100.0, 
+        8.6e-21, 
+        "PAM100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10022": [
+        "AAA32624", 
+        100.0, 
+        0.084, 
+        "BLOSUM75", 
+        "SGC8"
+    ], 
+    "Seq10005": [
+        "CAA29968", 
+        100.0, 
+        0.5, 
+        "blosum100", 
+        "SGC0"
+    ], 
+    "Seq10025": [
+        "AAA32624", 
+        100.0, 
+        0.088, 
+        "BLOSUM75", 
+        "Invertebrate_Mitochondrial"
+    ], 
+    "Seq10026": [
+        "AAA32624", 
+        100.0, 
+        0.012, 
+        "BLOSUM75", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq10027": [
+        "AAA32624", 
+        100.0, 
+        0.05, 
+        "BLOSUM90", 
+        "Trematode_Mitochondrial"
+    ], 
+    "Seq6140": [
+        "ABK71357", 
+        100.0, 
+        2.6e-40, 
+        "BLOSUM85", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq76": [
+        "CAA28033", 
+        100.0, 
+        2.5e-17, 
+        "PAM140", 
+        "Plant_Plastid"
+    ], 
+    "Seq5471": [
+        "AAB03707", 
+        100.0, 
+        2.5e-37, 
+        "PAM100", 
+        "Mycoplasma"
+    ], 
+    "Seq7787": [
+        "CAL82360", 
+        100.0, 
+        3e-71, 
+        "BLOSUM90", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq1786": [
+        "AAR37016", 
+        100.0, 
+        1.5e-20, 
+        "BLOSUM80", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5910": [
+        "AAR37016", 
+        100.0, 
+        1e-42, 
+        "BLOSUM75", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10082": [
+        "BAA05866", 
+        100.0, 
+        0.35, 
+        "BLOSUM65", 
+        "Yeast_Mitochondrial"
+    ], 
+    "Seq6352": [
+        "AAF79734", 
+        100.0, 
+        3.9e-40, 
+        "BLOSUM60", 
+        "SGC3"
+    ], 
+    "Seq10080": [
+        "BAB17681", 
+        100.0, 
+        0.078, 
+        "BLOSUM80", 
+        "Protozoan_Mitochondrial"
+    ], 
+    "Seq5540": [
+        "AAC17860", 
+        100.0, 
+        6.9e-42, 
+        "BLOSUM65", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5292": [
+        "AAA42531", 
+        100.0, 
+        2.7e-53, 
+        "BLOSUM90", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq2090": [
+        "ABD49687", 
+        100.0, 
+        6.5e-15, 
+        "BLOSUM35", 
+        "SGC9"
+    ], 
+    "Seq10066": [
+        "AAA36539", 
+        100.0, 
+        0.49, 
+        "BLOSUM30", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq7829": [
+        "AAF79734", 
+        100.0, 
+        2.8e-64, 
+        "BLOSUM70", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq9242": [
+        "CAD53387", 
+        100.0, 
+        2.7e-155, 
+        "BLOSUM50", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq306": [
+        "CAA45708", 
+        100.0, 
+        1.1e-19, 
+        "BLOSUM80", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq570": [
+        "CAA29968", 
+        100.0, 
+        4e-17, 
+        "BLOSUM55", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq10007": [
+        "CAA36714", 
+        100.0, 
+        0.5, 
+        "BLOSUM60", 
+        "Yeast_Mitochondrial"
+    ], 
+    "Seq713": [
+        "CAA43419", 
+        100.0, 
+        1.2e-18, 
+        "PAM100", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq978": [
+        "AAB03707", 
+        100.0, 
+        5.7e-25, 
+        "PAM130", 
+        "Hexamita_Nuclear"
+    ], 
+    "Seq6302": [
+        "ACT10338", 
+        100.0, 
+        1.7e-28, 
+        "PAM120", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq7225": [
+        "AAA24145", 
+        100.0, 
+        1.4e-76, 
+        "BLOSUM85", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5596": [
+        "AAC97205", 
+        100.0, 
+        2.2e-24, 
+        "BLOSUM40", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq1971": [
+        "AAR37016", 
+        100.0, 
+        5.9e-16, 
+        "PAM120", 
+        "Hexamita_Nuclear"
+    ], 
+    "Seq1044": [
+        "AAB96524", 
+        100.0, 
+        4.6e-16, 
+        "PAM100", 
+        "SGC5"
+    ], 
+    "Seq7758": [
+        "ABN10845", 
+        100.0, 
+        2.8e-68, 
+        "PAM130", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10032": [
+        "AAA25966", 
+        100.0, 
+        0.24, 
+        "PAM200", 
+        "Flatworm_Mitochondrial"
+    ], 
+    "Seq10031": [
+        "ABN10845", 
+        100.0, 
+        0.69, 
+        "BLOSUM55", 
+        "SGC8"
+    ], 
+    "Seq7703": [
+        "ABD49687", 
+        100.0, 
+        4e-58, 
+        "BLOSUM65", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7334": [
+        "CAA29968", 
+        100.0, 
+        1.2e-70, 
+        "PAM120", 
+        "SGC3"
+    ], 
+    "Seq10035": [
+        "AAA25966", 
+        100.0, 
+        0.2, 
+        "PAM200", 
+        "Pterobranchia_Mitochondrial"
+    ], 
+    "Seq5156": [
+        "CAA45708", 
+        100.0, 
+        5.3e-37, 
+        "PAM100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5193": [
+        "AAA25966", 
+        100.0, 
+        1.1e-41, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq10039": [
+        "CAA26023", 
+        100.0, 
+        0.22, 
+        "blosum100", 
+        "Invertebrate_Mitochondrial"
+    ], 
+    "Seq10009": [
+        "CAA29968", 
+        100.0, 
+        0.57, 
+        "blosum100", 
+        "SGC0"
+    ], 
+    "Seq8238": [
+        "CAA45708", 
+        100.0, 
+        1.6e-129, 
+        "BLOSUM75", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq6312": [
+        "ACT10338", 
+        100.0, 
+        4e-53, 
+        "PAM140", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq8122": [
+        "AAB66912", 
+        100.0, 
+        3.8e-67, 
+        "PAM120", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10023": [
+        "AAA32624", 
+        100.0, 
+        0.083, 
+        "BLOSUM75", 
+        "Trematode_Mitochondrial"
+    ], 
+    "Seq663": [
+        "CAA26023", 
+        100.0, 
+        5.5e-06, 
+        "BLOSUM35", 
+        "Trematode_Mitochondrial"
+    ], 
+    "Seq5822": [
+        "AAR31603", 
+        100.0, 
+        5.3e-54, 
+        "BLOSUM50", 
+        "Scenedesmus_obliquus_Mitochondrial"
+    ], 
+    "Seq10073": [
+        "AAA42531", 
+        100.0, 
+        0.79, 
+        "BLOSUM85", 
+        "Trematode_Mitochondrial"
+    ], 
+    "Seq201": [
+        "CAA45708", 
+        100.0, 
+        4.1e-12, 
+        "PAM110", 
+        "SGC1"
+    ], 
+    "Seq1409": [
+        "CAA26023", 
+        100.0, 
+        0.36, 
+        "BLOSUM40", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq8102": [
+        "AAB66912", 
+        100.0, 
+        1.9e-75, 
+        "BLOSUM75", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq254": [
+        "CAA45708", 
+        100.0, 
+        6.3e-21, 
+        "BLOSUM85", 
+        "Bacterial"
+    ], 
+    "Seq5105": [
+        "CAA45708", 
+        100.0, 
+        8.9e-34, 
+        "BLOSUM90", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq8091": [
+        "CAA73529", 
+        100.0, 
+        2.2e-80, 
+        "BLOSUM85", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10030": [
+        "AAA36539", 
+        100.0, 
+        1.4, 
+        "PAM100", 
+        "SGC1"
+    ], 
+    "Seq1407": [
+        "CAA29956", 
+        100.0, 
+        8.3e-17, 
+        "BLOSUM35", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq6432": [
+        "BAA32956", 
+        100.0, 
+        0.0002, 
+        "PAM200", 
+        "Trematode_Mitochondrial"
+    ], 
+    "Seq1647": [
+        "AAQ92751", 
+        100.0, 
+        1.4e-16, 
+        "PAM120", 
+        "SGC0"
+    ], 
+    "Seq7608": [
+        "AAR37016", 
+        100.0, 
+        7e-56, 
+        "PAM100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq1515": [
+        "AAQ92751", 
+        100.0, 
+        1.7e-16, 
+        "PAM100", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq7236": [
+        "CAA45708", 
+        100.0, 
+        1.1e-75, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq1214": [
+        "AAC97205", 
+        100.0, 
+        8.2e-11, 
+        "PAM100", 
+        "SGC2"
+    ], 
+    "Seq5024": [
+        "CAA28033", 
+        100.0, 
+        5.1e-53, 
+        "BLOSUM75", 
+        "Peritrich_Nuclear"
+    ], 
+    "Seq5229": [
+        "CAA36714", 
+        100.0, 
+        4.5e-29, 
+        "BLOSUM35", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq8008": [
+        "CAA11507", 
+        100.0, 
+        4.4e-87, 
+        "blosum100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq1648": [
+        "AAQ92751", 
+        100.0, 
+        6.6e-14, 
+        "BLOSUM40", 
+        "Pterobranchia_Mitochondrial"
+    ], 
+    "Seq10006": [
+        "ABD33854", 
+        100.0, 
+        0.62, 
+        "PAM120", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq6328": [
+        "AAF79734", 
+        100.0, 
+        7.8e-50, 
+        "PAM120", 
+        "Dasycladacean_Nuclear"
+    ], 
+    "Seq8030": [
+        "CAA11507", 
+        100.0, 
+        2.7e-55, 
+        "BLOSUM70", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10002": [
+        "ACH70901", 
+        100.0, 
+        0.29, 
+        "PAM140", 
+        "Alternative_Flatworm_Mitochondrial"
+    ], 
+    "Seq7442": [
+        "AAC08817", 
+        100.0, 
+        3.6e-53, 
+        "BLOSUM85", 
+        "SGC9"
+    ], 
+    "Seq2121": [
+        "ABD49687", 
+        100.0, 
+        2.9e-19, 
+        "PAM100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7329": [
+        "AAA32624", 
+        100.0, 
+        1.4e-68, 
+        "PAM100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7689": [
+        "ABD49687", 
+        100.0, 
+        1.1e-68, 
+        "PAM130", 
+        "Dasycladacean_Nuclear"
+    ], 
+    "Seq5926": [
+        "AAR37016", 
+        100.0, 
+        6.8e-48, 
+        "BLOSUM60", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq388": [
+        "AAA25966", 
+        100.0, 
+        2.8e-22, 
+        "BLOSUM40", 
+        "Invertebrate_Mitochondrial"
+    ], 
+    "Seq7604": [
+        "AAR37016", 
+        100.0, 
+        1.1e-72, 
+        "blosum100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5612": [
+        "AAC97205", 
+        100.0, 
+        1.1e-46, 
+        "BLOSUM60", 
+        "Blepharisma_Macronuclear"
+    ], 
+    "Seq7527": [
+        "CAA36214", 
+        100.0, 
+        3e-72, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq8244": [
+        "CAA45708", 
+        100.0, 
+        4.1e-151, 
+        "BLOSUM85", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq6439": [
+        "CCP43727", 
+        100.0, 
+        2.7e-46, 
+        "PAM100", 
+        "Standard"
+    ], 
+    "Seq553": [
+        "AAA32624", 
+        100.0, 
+        2.6e-23, 
+        "BLOSUM65", 
+        "Protozoan_Mitochondrial"
+    ], 
+    "Seq7788": [
+        "CAL82360", 
+        100.0, 
+        2.6e-78, 
+        "BLOSUM85", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10034": [
+        "AAA25966", 
+        100.0, 
+        0.19, 
+        "PAM200", 
+        "Pterobranchia_Mitochondrial"
+    ], 
+    "Seq8099": [
+        "AAB66912", 
+        100.0, 
+        3e-59, 
+        "BLOSUM75", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq329": [
+        "CAA45708", 
+        100.0, 
+        6e-24, 
+        "BLOSUM70", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq8494": [
+        "AAS77176", 
+        100.0, 
+        1.2e-136, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq1715": [
+        "AAR31603", 
+        100.0, 
+        1.5e-22, 
+        "PAM140", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq1077": [
+        "AAC08817", 
+        100.0, 
+        1.4e-12, 
+        "PAM110", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq8413": [
+        "AAI27517", 
+        100.0, 
+        3.3e-146, 
+        "PAM110", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq6340": [
+        "AAF79734", 
+        100.0, 
+        7.9e-28, 
+        "PAM100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5139": [
+        "CAA45708", 
+        100.0, 
+        7.9e-34, 
+        "BLOSUM90", 
+        "SGC3"
+    ], 
+    "Seq7921": [
+        "AAA36114", 
+        100.0, 
+        7.8e-69, 
+        "PAM140", 
+        "SGC9"
+    ], 
+    "Seq7843": [
+        "AAF79734", 
+        100.0, 
+        2.3e-61, 
+        "BLOSUM70", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq8551": [
+        "ABN10845", 
+        100.0, 
+        6.6e-133, 
+        "blosum100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5605": [
+        "AAC97205", 
+        100.0, 
+        2e-43, 
+        "blosum100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7845": [
+        "AAF79734", 
+        100.0, 
+        9.2e-77, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq240": [
+        "CAA45708", 
+        100.0, 
+        8.2e-16, 
+        "blosum100", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq10019": [
+        "AAA32624", 
+        100.0, 
+        0.25, 
+        "BLOSUM50", 
+        "Invertebrate_Mitochondrial"
+    ], 
+    "Seq405": [
+        "AAA25966", 
+        100.0, 
+        2.7e-21, 
+        "BLOSUM85", 
+        "Spiroplasma"
+    ], 
+    "Seq5231": [
+        "CAA36714", 
+        100.0, 
+        3.5e-42, 
+        "BLOSUM65", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq8393": [
+        "AAC97205", 
+        100.0, 
+        6.2e-116, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7613": [
+        "AAR37016", 
+        100.0, 
+        3.7e-65, 
+        "BLOSUM65", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5987": [
+        "AAS77176", 
+        100.0, 
+        2.9e-36, 
+        "BLOSUM90", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10011": [
+        "CAA29968", 
+        100.0, 
+        0.53, 
+        "BLOSUM85", 
+        "Vertebrate_Mitochondrial"
+    ], 
+    "Seq10010": [
+        "CAA29968", 
+        100.0, 
+        0.49, 
+        "BLOSUM85", 
+        "SGC1"
+    ], 
+    "Seq10013": [
+        "AAA36114", 
+        100.0, 
+        0.38, 
+        "BLOSUM60", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq7754": [
+        "BAA36759", 
+        100.0, 
+        2.8e-57, 
+        "BLOSUM80", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq10017": [
+        "CAA36714", 
+        100.0, 
+        0.33, 
+        "BLOSUM60", 
+        "Yeast_Mitochondrial"
+    ], 
+    "Seq10016": [
+        "AAR31603", 
+        100.0, 
+        1.4, 
+        "BLOSUM35", 
+        "SGC9"
+    ], 
+    "Seq5533": [
+        "AAC17860", 
+        100.0, 
+        2.9e-33, 
+        "BLOSUM70", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq148": [
+        "AAA24145", 
+        100.0, 
+        8.2e-27, 
+        "BLOSUM70", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5447": [
+        "AAB03707", 
+        100.0, 
+        6e-27, 
+        "BLOSUM75", 
+        "SGC9"
+    ], 
+    "Seq6238": [
+        "CAL82360", 
+        100.0, 
+        4.5e-45, 
+        "BLOSUM70", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7696": [
+        "ABD49687", 
+        100.0, 
+        2.2e-70, 
+        "BLOSUM60", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7352": [
+        "CAA26023", 
+        100.0, 
+        3.6e-64, 
+        "BLOSUM55", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq150": [
+        "AAA24145", 
+        100.0, 
+        5.6e-13, 
+        "BLOSUM40", 
+        "Chlorophycean_Mitochondrial"
+    ], 
+    "Seq7288": [
+        "AAA25966", 
+        100.0, 
+        2.2e-69, 
+        "BLOSUM75", 
+        "Protozoan_Mitochondrial"
+    ], 
+    "Seq1026": [
+        "AAC49865", 
+        100.0, 
+        3.4e-13, 
+        "PAM130", 
+        "Plant_Plastid"
+    ], 
+    "Seq8117": [
+        "AAB66912", 
+        100.0, 
+        7.5e-53, 
+        "BLOSUM85", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq8081": [
+        "CAA45199", 
+        100.0, 
+        2.5e-84, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq6294": [
+        "ACH70901", 
+        100.0, 
+        2.1e-33, 
+        "PAM110", 
+        "Mold_Mitochondrial"
+    ], 
+    "Seq335": [
+        "CAA45708", 
+        100.0, 
+        3.3e-20, 
+        "BLOSUM75", 
+        "Mycoplasma"
+    ], 
+    "Seq525": [
+        "AAA32624", 
+        100.0, 
+        1e-22, 
+        "PAM100", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq135": [
+        "AAB03707", 
+        100.0, 
+        0.038, 
+        "BLOSUM50", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq7497": [
+        "AAC97205", 
+        100.0, 
+        4.3e-49, 
+        "PAM130", 
+        "Dasycladacean_Nuclear"
+    ], 
+    "Seq8569": [
+        "CAL82360", 
+        100.0, 
+        1.9e-119, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq10029": [
+        "AAA32624", 
+        100.0, 
+        0.025, 
+        "BLOSUM90", 
+        "Trematode_Mitochondrial"
+    ], 
+    "Seq10077": [
+        "CAA36214", 
+        100.0, 
+        0.3, 
+        "PAM100", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq239": [
+        "CAA45708", 
+        100.0, 
+        9.2e-16, 
+        "BLOSUM80", 
+        "SGC5"
+    ], 
+    "Seq714": [
+        "CAA43419", 
+        100.0, 
+        5.8e-16, 
+        "PAM110", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq7983": [
+        "AAC40132", 
+        100.0, 
+        9.5e-05, 
+        "PAM200", 
+        "SGC1"
+    ], 
+    "Seq10063": [
+        "BAB79260", 
+        100.0, 
+        1.3, 
+        "PAM200", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq7585": [
+        "AAQ92751", 
+        100.0, 
+        3e-75, 
+        "blosum100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq6343": [
+        "AAF79734", 
+        100.0, 
+        2.1e-22, 
+        "PAM110", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5637": [
+        "AAC97205", 
+        100.0, 
+        1.3e-51, 
+        "BLOSUM90", 
+        "Peritrich_Nuclear"
+    ], 
+    "Seq7651": [
+        "AAR37016", 
+        100.0, 
+        5.6e-70, 
+        "BLOSUM75", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10069": [
+        "ACH70901", 
+        100.0, 
+        0.13, 
+        "blosum100", 
+        "SGC2"
+    ], 
+    "Seq10064": [
+        "BAA32956", 
+        100.0, 
+        0.45, 
+        "BLOSUM65", 
+        "Chlorophycean_Mitochondrial"
+    ], 
+    "Seq10065": [
+        "BAB79260", 
+        100.0, 
+        0.37, 
+        "PAM120", 
+        "Blepharisma_Macronuclear"
+    ], 
+    "Seq6349": [
+        "AAF79734", 
+        100.0, 
+        2.1e-41, 
+        "BLOSUM70", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq6348": [
+        "AAF79734", 
+        100.0, 
+        9.3e-42, 
+        "BLOSUM75", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq10060": [
+        "AAB26998", 
+        100.0, 
+        1.7, 
+        "BLOSUM90", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq6450": [
+        "BAA32018", 
+        100.0, 
+        6.1e-50, 
+        "BLOSUM65", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7461": [
+        "AAC78721", 
+        100.0, 
+        7.6e-86, 
+        "BLOSUM90", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq9142": [
+        "ABG75784", 
+        100.0, 
+        2.2e-172, 
+        "PAM120", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5604": [
+        "AAC97205", 
+        100.0, 
+        2e-31, 
+        "PAM130", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq2105": [
+        "ABD49687", 
+        100.0, 
+        7.3e-20, 
+        "BLOSUM35", 
+        "SGC5"
+    ], 
+    "Seq5084": [
+        "CAA45708", 
+        100.0, 
+        5.8e-32, 
+        "BLOSUM90", 
+        "SGC2"
+    ], 
+    "Seq5089": [
+        "CAA45708", 
+        100.0, 
+        2.8e-34, 
+        "PAM130", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq5524": [
+        "AAC17860", 
+        100.0, 
+        7.5e-35, 
+        "BLOSUM90", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq5939": [
+        "AAR37016", 
+        100.0, 
+        1.2e-39, 
+        "BLOSUM75", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq7345": [
+        "AAA42531", 
+        100.0, 
+        2.6e-69, 
+        "PAM120", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7346": [
+        "CAA26023", 
+        100.0, 
+        9.7e-72, 
+        "PAM120", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq733": [
+        "AAA72732", 
+        100.0, 
+        1.7e-25, 
+        "PAM100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10018": [
+        "CAA26939", 
+        100.0, 
+        0.95, 
+        "BLOSUM80", 
+        "SGC5"
+    ], 
+    "Seq5798": [
+        "AAQ92751", 
+        100.0, 
+        3.6e-41, 
+        "BLOSUM75", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq165": [
+        "CAA45708", 
+        100.0, 
+        6.2e-20, 
+        "BLOSUM65", 
+        "Blepharisma_Macronuclear"
+    ], 
+    "Seq7671": [
+        "AAC26660", 
+        96.55, 
+        1.1e-69, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq8070": [
+        "AAI27517", 
+        100.0, 
+        0.59, 
+        "BLOSUM65", 
+        "Chlorophycean_Mitochondrial"
+    ], 
+    "Seq7670": [
+        "AAS77176", 
+        100.0, 
+        7.2e-68, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7469": [
+        "AAC78721", 
+        100.0, 
+        2.7e-72, 
+        "PAM120", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7598": [
+        "AAR37016", 
+        100.0, 
+        1.8e-77, 
+        "PAM100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq5420": [
+        "AAB03707", 
+        100.0, 
+        3.3e-30, 
+        "BLOSUM75", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq185": [
+        "CAA45708", 
+        100.0, 
+        6.8e-18, 
+        "BLOSUM80", 
+        "Dasycladacean_Nuclear"
+    ], 
+    "Seq7908": [
+        "BAB17681", 
+        100.0, 
+        8.3e-78, 
+        "PAM120", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq9087": [
+        "AAQ92751", 
+        100.0, 
+        1.9e-169, 
+        "PAM100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5669": [
+        "CAA29956", 
+        100.0, 
+        3.1e-40, 
+        "BLOSUM75", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq635": [
+        "CAA26023", 
+        100.0, 
+        3.6e-17, 
+        "BLOSUM35", 
+        "SGC3"
+    ], 
+    "Seq1575": [
+        "AAQ92751", 
+        100.0, 
+        4.4e-15, 
+        "BLOSUM35", 
+        "SGC3"
+    ], 
+    "Seq421": [
+        "AAA25966", 
+        100.0, 
+        1e-18, 
+        "PAM120", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7901": [
+        "BAA32956", 
+        100.0, 
+        1.7e-60, 
+        "blosum100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq1085": [
+        "AAC17860", 
+        100.0, 
+        2.7e-11, 
+        "PAM120", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq7937": [
+        "BAB79260", 
+        100.0, 
+        2.6e-52, 
+        "BLOSUM50", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq5641": [
+        "AAC97205", 
+        100.0, 
+        6.5e-41, 
+        "PAM110", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq7783": [
+        "CAL82360", 
+        100.0, 
+        7.8e-60, 
+        "BLOSUM75", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq9063": [
+        "AAC78721", 
+        100.0, 
+        3e-207, 
+        "BLOSUM85", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq8295": [
+        "CAA26023", 
+        100.0, 
+        1.7e-141, 
+        "BLOSUM50", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq24": [
+        "AAA18786", 
+        100.0, 
+        1.6e-17, 
+        "PAM120", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq5644": [
+        "AAC97205", 
+        100.0, 
+        1e-37, 
+        "BLOSUM85", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5405": [
+        "AAB03707", 
+        100.0, 
+        1.1e-44, 
+        "blosum100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10076": [
+        "CAA36214", 
+        100.0, 
+        0.33, 
+        "PAM110", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq10075": [
+        "EDO47375", 
+        100.0, 
+        0.075, 
+        "BLOSUM85", 
+        "Pachysolen_tannophilus_Nuclear"
+    ], 
+    "Seq5572": [
+        "AAC78721", 
+        100.0, 
+        4.3e-31, 
+        "PAM110", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq5319": [
+        "CAA26023", 
+        100.0, 
+        2.2e-28, 
+        "BLOSUM35", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10072": [
+        "AAA42531", 
+        100.0, 
+        0.62, 
+        "BLOSUM90", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq1779": [
+        "AAR37016", 
+        100.0, 
+        2.6e-22, 
+        "PAM100", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq10070": [
+        "AAA42531", 
+        100.0, 
+        0.76, 
+        "BLOSUM90", 
+        "Thraustochytrium_Mitochondrial"
+    ], 
+    "Seq1939": [
+        "AAR37016", 
+        100.0, 
+        1.3e-16, 
+        "BLOSUM60", 
+        "Hexamita_Nuclear"
+    ], 
+    "Seq5487": [
+        "AAC49865", 
+        100.0, 
+        1.4e-38, 
+        "PAM120", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5728": [
+        "AAI27517", 
+        100.0, 
+        5e-37, 
+        "BLOSUM60", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq2052": [
+        "AAC26660", 
+        100.0, 
+        9.4e-21, 
+        "BLOSUM85", 
+        "Mycoplasma"
+    ], 
+    "Seq5098": [
+        "CAA45708", 
+        100.0, 
+        6.6e-23, 
+        "BLOSUM40", 
+        "SGC4"
+    ], 
+    "Seq7476": [
+        "AAC97205", 
+        100.0, 
+        3.6e-67, 
+        "PAM100", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq2117": [
+        "ABD49687", 
+        100.0, 
+        3.8e-13, 
+        "PAM120", 
+        "Spiroplasma"
+    ], 
+    "Seq9176": [
+        "BAA05866", 
+        100.0, 
+        0.0, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq9171": [
+        "AAF79734", 
+        100.0, 
+        0.0, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7262": [
+        "CAA45708", 
+        100.0, 
+        7.4e-74, 
+        "BLOSUM70", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7579": [
+        "AAQ92751", 
+        100.0, 
+        6.4e-73, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq216": [
+        "CAA45708", 
+        100.0, 
+        2.6e-13, 
+        "PAM120", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq8218": [
+        "AAA24145", 
+        100.0, 
+        9.6e-07, 
+        "PAM140", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq5940": [
+        "AAR37016", 
+        100.0, 
+        5.6e-45, 
+        "BLOSUM75", 
+        "Gracilibacteria"
+    ], 
+    "Seq80": [
+        "CAA28033", 
+        100.0, 
+        2.3e-19, 
+        "BLOSUM75", 
+        "Coelenterate_Mitochondrial"
+    ], 
+    "Seq7473": [
+        "AAC78721", 
+        100.0, 
+        7.1e-52, 
+        "BLOSUM70", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq9114": [
+        "AAR37016", 
+        100.0, 
+        6.7e-167, 
+        "BLOSUM50", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq8061": [
+        "CAA26939", 
+        100.0, 
+        8e-78, 
+        "BLOSUM65", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq8062": [
+        "CAA26939", 
+        100.0, 
+        1.4e-67, 
+        "PAM100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5039": [
+        "CAA28033", 
+        100.0, 
+        5.6e-52, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq356": [
+        "AAA25966", 
+        100.0, 
+        2.6e-26, 
+        "BLOSUM65", 
+        "Pterobranchia_Mitochondrial"
+    ], 
+    "Seq1255": [
+        "AAC97205", 
+        100.0, 
+        6.5e-25, 
+        "BLOSUM80", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq1256": [
+        "AAC97205", 
+        100.0, 
+        8.6e-20, 
+        "BLOSUM80", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq7484": [
+        "AAC97205", 
+        100.0, 
+        2.2e-56, 
+        "PAM130", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq9056": [
+        "AAB03707", 
+        100.0, 
+        2.6e-209, 
+        "PAM100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5953": [
+        "AAR37016", 
+        100.0, 
+        3.2e-39, 
+        "PAM100", 
+        "SGC4"
+    ], 
+    "Seq7488": [
+        "AAC97205", 
+        100.0, 
+        1.9e-85, 
+        "blosum100", 
+        "Candidate_Division_SR1"
+    ], 
+    "Seq359": [
+        "AAA25966", 
+        100.0, 
+        2.6e-16, 
+        "PAM140", 
+        "Invertebrate_Mitochondrial"
+    ], 
+    "Seq10056": [
+        "BAB17681", 
+        100.0, 
+        1.3, 
+        "PAM140", 
+        "Archaeal"
+    ], 
+    "Seq10042": [
+        "CAA36214", 
+        100.0, 
+        0.31, 
+        "BLOSUM85", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq10043": [
+        "CAA36214", 
+        100.0, 
+        0.19, 
+        "blosum100", 
+        "Vertebrate_Mitochondrial"
+    ], 
+    "Seq7970": [
+        "CAB75732", 
+        100.0, 
+        2.2e-67, 
+        "BLOSUM65", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq5654": [
+        "AAC97205", 
+        100.0, 
+        1.2e-45, 
+        "BLOSUM65", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5307": [
+        "CAA26023", 
+        100.0, 
+        5.7e-39, 
+        "BLOSUM50", 
+        "SGC5"
+    ], 
+    "Seq10045": [
+        "AAC08817", 
+        100.0, 
+        0.33, 
+        "BLOSUM30", 
+        "Gracilibacteria"
+    ], 
+    "Seq17": [
+        "AAA18786", 
+        100.0, 
+        8.3e-16, 
+        "PAM140", 
+        "Invertebrate_Mitochondrial"
+    ], 
+    "Seq1884": [
+        "AAR37016", 
+        100.0, 
+        5.9e-11, 
+        "BLOSUM35", 
+        "SGC2"
+    ], 
+    "Seq10049": [
+        "AAA25966", 
+        100.0, 
+        0.44, 
+        "BLOSUM40", 
+        "SGC2"
+    ], 
+    "Seq5416": [
+        "AAB03707", 
+        100.0, 
+        6.2e-36, 
+        "BLOSUM85", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq5141": [
+        "CAA45708", 
+        100.0, 
+        2.6e-38, 
+        "PAM100", 
+        "SGC5"
+    ], 
+    "Seq1807": [
+        "AAR37016", 
+        100.0, 
+        3e-16, 
+        "BLOSUM35", 
+        "Peritrich_Nuclear"
+    ], 
+    "Seq7408": [
+        "AAB03707", 
+        100.0, 
+        5.7e-60, 
+        "BLOSUM75", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq5265": [
+        "AAA32624", 
+        100.0, 
+        2.9e-38, 
+        "PAM140", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7561": [
+        "AAQ92751", 
+        100.0, 
+        7e-59, 
+        "BLOSUM60", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq1397": [
+        "CAA29956", 
+        100.0, 
+        3e-24, 
+        "BLOSUM55", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7274": [
+        "CAA45708", 
+        100.0, 
+        2e-62, 
+        "PAM110", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq9161": [
+        "ACT10338", 
+        100.0, 
+        2.8e-202, 
+        "BLOSUM70", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7270": [
+        "CAA45708", 
+        100.0, 
+        2.3e-67, 
+        "BLOSUM90", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq8348": [
+        "AAB96524", 
+        100.0, 
+        2.1e-78, 
+        "BLOSUM70", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq6387": [
+        "AAF79734", 
+        100.0, 
+        2.1e-43, 
+        "BLOSUM85", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7230": [
+        "AAA24145", 
+        100.0, 
+        7.9e-07, 
+        "PAM140", 
+        "Peritrich_Nuclear"
+    ], 
+    "Seq995": [
+        "AAB26998", 
+        100.0, 
+        6.3e-26, 
+        "BLOSUM90", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq6383": [
+        "AAF79734", 
+        100.0, 
+        2e-29, 
+        "BLOSUM65", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq6382": [
+        "AAF79734", 
+        100.0, 
+        9.2e-50, 
+        "PAM100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq6339": [
+        "AAF79734", 
+        100.0, 
+        1.2e-35, 
+        "PAM100", 
+        "SGC9"
+    ], 
+    "Seq6380": [
+        "AAF79734", 
+        100.0, 
+        5.6e-41, 
+        "PAM120", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq7885": [
+        "BAA32018", 
+        100.0, 
+        5.9e-64, 
+        "BLOSUM75", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq517": [
+        "AAA32624", 
+        100.0, 
+        4.3e-22, 
+        "BLOSUM55", 
+        "Dasycladacean_Nuclear"
+    ], 
+    "Seq9101": [
+        "AAR37016", 
+        100.0, 
+        0.0, 
+        "PAM100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq8056": [
+        "CAA26939", 
+        100.0, 
+        2e-82, 
+        "BLOSUM90", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq6057": [
+        "ABD49687", 
+        100.0, 
+        4.1e-32, 
+        "BLOSUM55", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq10041": [
+        "CAA26023", 
+        100.0, 
+        0.14, 
+        "BLOSUM75", 
+        "SGC4"
+    ], 
+    "Seq5075": [
+        "AAA24145", 
+        100.0, 
+        1.4e-43, 
+        "PAM130", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7715": [
+        "ABD49687", 
+        100.0, 
+        1.2e-70, 
+        "PAM120", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq7714": [
+        "ABD49687", 
+        100.0, 
+        4.2e-46, 
+        "PAM140", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq7960": [
+        "CAB75732", 
+        100.0, 
+        2.1e-80, 
+        "PAM100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq10047": [
+        "AAA72732", 
+        100.0, 
+        0.43, 
+        "BLOSUM50", 
+        "Gracilibacteria"
+    ], 
+    "Seq613": [
+        "AAA42531", 
+        100.0, 
+        4.2e-24, 
+        "PAM110", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq7967": [
+        "CAB75732", 
+        100.0, 
+        3.6e-66, 
+        "blosum100", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq690": [
+        "CAA43419", 
+        100.0, 
+        2.4e-13, 
+        "BLOSUM35", 
+        "Spiroplasma"
+    ], 
+    "Seq10054": [
+        "AAA25966", 
+        100.0, 
+        0.54, 
+        "BLOSUM40", 
+        "Pterobranchia_Mitochondrial"
+    ], 
+    "Seq5576": [
+        "AAC78721", 
+        100.0, 
+        7.7e-34, 
+        "blosum100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq10051": [
+        "AAI27517", 
+        100.0, 
+        0.31, 
+        "BLOSUM40", 
+        "Ascidian_Mitochondrial"
+    ], 
+    "Seq10050": [
+        "BAA32991", 
+        83.33, 
+        0.25, 
+        "BLOSUM80", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq1111": [
+        "AAC17860", 
+        100.0, 
+        2.3e-14, 
+        "BLOSUM40", 
+        "SGC2"
+    ], 
+    "Seq10052": [
+        "AAA25966", 
+        100.0, 
+        0.42, 
+        "BLOSUM40", 
+        "SGC2"
+    ], 
+    "Seq6279": [
+        "ACH70901", 
+        100.0, 
+        5.3e-37, 
+        "PAM130", 
+        "SGC9"
+    ], 
+    "Seq5578": [
+        "AAC78721", 
+        100.0, 
+        2.8e-47, 
+        "PAM100", 
+        "Euplotid_Nuclear"
+    ], 
+    "Seq6433": [
+        "BAA32956", 
+        100.0, 
+        0.0003, 
+        "PAM200", 
+        "Scenedesmus_obliquus_Mitochondrial"
+    ], 
+    "Seq5567": [
+        "AAC78721", 
+        100.0, 
+        9e-49, 
+        "PAM110", 
+        "Alternative_Yeast_Nuclear"
+    ], 
+    "Seq117": [
+        "AAA24145", 
+        100.0, 
+        2.5e-25, 
+        "BLOSUM75", 
+        "Karyorelict_Nuclear"
+    ], 
+    "Seq8353": [
+        "AAC17860", 
+        100.0, 
+        1.6e-124, 
+        "PAM100", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq1816": [
+        "AAR37016", 
+        100.0, 
+        6.5e-11, 
+        "PAM200", 
+        "Mesodinium_Nuclear"
+    ], 
+    "Seq6364": [
+        "AAF79734", 
+        100.0, 
+        6.5e-39, 
+        "PAM140", 
+        "Blastocrithidia_Nuclear"
+    ], 
+    "Seq7410": [
+        "AAB03707", 
+        100.0, 
+        1.4e-54, 
+        "BLOSUM65", 
+        "SGC5"
+    ], 
+    "Seq7414": [
+        "AAB03707", 
+        100.0, 
+        2.3e-83, 
+        "BLOSUM85", 
+        "Ciliate_Nuclear"
+    ], 
+    "Seq1383": [
+        "CAA29956", 
+        100.0, 
+        1.1e-14, 
+        "BLOSUM65", 
+        "Mold_Mitochondrial"
+    ], 
+    "Seq7319": [
+        "AAA32624", 
+        100.0, 
+        1.1e-73, 
+        "BLOSUM75", 
+        "Condylostoma_Nuclear"
+    ], 
+    "Seq1381": [
+        "CAA29956", 
+        100.0, 
+        6.4e-20, 
+        "PAM120", 
+        "Karyorelict_Nuclear"
+    ]
+}
