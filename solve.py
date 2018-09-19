@@ -208,12 +208,15 @@ def main():
 #            os.system(cmd)
 #     for each protein in they key, get the threat bin of it
 #    binsThreat = getThreatBin()
-#    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt
-#    dictionary = getDictionary()
+
 #    # from the above, map seq to Threat
 ##    seqToThreat = mapSeqThreat(binsThreat,dictionary)
+    
+    
 #    # standard table
 #    standard    = getStandard()
+#    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
+#    dictionary = getDictionary()
     seqToProtein = json.load(open("seqToProtein.txt","r"))
     seqToProteinStandard = json.load(open("seqToProteinStandard.txt","r"))
     # getting the key result, to make comparison
