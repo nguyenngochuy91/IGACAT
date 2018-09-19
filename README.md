@@ -15,7 +15,12 @@ Users can either use github interface Download button or type the following comm
 git clone https://github.com/nguyenngochuy91/IGACAT.git
 ```
 The users can either download the source codes of the requirements or use package management systems such as [brew](https://brew.sh/),
- or [conda](https://conda.io/miniconda.html). Users can also try [pip](https://pypi.org/project/pip/)
+ or [conda](https://conda.io/miniconda.html). Users can also try [pip](https://pypi.org/project/pip/).
+
+If user has conda, to install [fasta6](https://github.com/wrpearson/fasta36), user can type in the command line:
+```bash
+conda install -c biobuilds fasta
+```
 
 
 ## Usage

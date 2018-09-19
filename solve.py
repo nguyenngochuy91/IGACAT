@@ -206,6 +206,8 @@ def main():
 #            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
 #            print ("Working on {} ...".format(cmd))
 #            os.system(cmd)
+    
+    
 #     for each protein in they key, get the threat bin of it
 #    binsThreat = getThreatBin()
 
