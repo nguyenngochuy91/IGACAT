@@ -39,8 +39,13 @@ The alignment part and the part to pick out the best result were commented out f
 You are more welcome to run those part. The alignment parts start from line 194-208. The analizing parts start start from 218-221.
 What the current script does is to read from file seqToProteinStandard.txt (result of using only the standard translation table)
  and seqToProtein.txt(result using all translation table), and compare them with the key.
- 
+
 seqToProteinStandard.txt file is a dictionary, the key is the fragment sequence (permuted), the value is an array of this format 
 (originalProtein,percentIdentity,evalue,substitutionMatrix,TranslationTable). 
 
+The fragments directory store all the translation of our sequence fragment using 43 translation table, in 6 reading frames. 
+Each of the file is in fasta format, the id for example could be **Seq5405_166_bp_1_2_1**. Here, **Seq5405_166_bp** indicate the frag seq id,
+**1_2_1** indicates this is on normal strand, reading frame 3, and the **second** index in the list. Another one from the same sequence **Seq5405_166_bp_1_2_2**
+means almost the same thing except **1_2_2** indicates this is on normal strand, reading frame 3, and the **third** index in the list.
+The reason for this is there might be stop codon in the middle of the fragment when translating.
 
