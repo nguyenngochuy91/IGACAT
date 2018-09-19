@@ -33,8 +33,8 @@ or :
 ```bash
 python solve.py
 ```
-First of, I want to sorry for the unorganizing script. It was quickly written to serve the purpose of getting result.
-I will reformat and structure it soon. 
+The script was quickly written to serve the purpose of getting result,
+I will reformat and structure it soon.  
 The alignment part and the part to pick out the best result were commented out for time consumming reason.
 You are more welcome to run those part. The alignment parts start from line 194-208. The analizing parts start start from 218-221.
 What the current script does is to read from file seqToProteinStandard.txt (result of using only the standard translation table)
