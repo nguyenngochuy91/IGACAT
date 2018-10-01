@@ -6,7 +6,8 @@
     End     : /08/2016
 '''
 from Bio import SeqIO
-
+from Bio import Entrez
+import time
 class Permutations(object):
     def __init__(self,fasta= "phaseI_midyearpulse_selected_seqs_randomized.fasta"):
         try:
@@ -16,13 +17,15 @@ class Permutations(object):
             print ("Either file is mal-formated, or different version of Python\n")
             
 class Genes(object):
-    def __init__(self,fasta= "phaseI_midyearpulse_whole_nt.fasta" ):
+    def __init__(self,fasta= "phaseI_midyearpulse_whole_nt.fasta",flag= False):
         try:
             record = list(SeqIO.parse(fasta,"fasta"))
             self.record = []
             for r in record:
-                seq = r.seq.translate().strip("*")
-                seq = str(seq).replace("*","")
+                seq = r.seq
+                if not flag:
+                    seq = seq.translate().strip("*")
+                    seq = str(seq).replace("*","")
                 id  = r.id
                 self.record.append([id,seq])
         except:
@@ -47,3 +50,15 @@ class Keys(object):
 
     
     
+#k = Keys(fasta= "phaseI_midyearpulse_selected_seqs_key_final.txt")
+#gene = set([item["Gene"] for item in k.record])
+#outfile = open("phaseI_midyearpulse_whole_aa.fasta","w")
+#for g in gene:
+#    # create a handle to fetch from ncbi
+#    print (g)
+#    handle = Entrez.efetch(db="nucleotide", id=g, rettype="fasta", retmode="text")
+#    lines  = handle.read()
+#    outfile.write(lines.strip())
+#    outfile.write("\n")
+#    time.sleep(.4)
+#outfile.close()

@@ -189,36 +189,36 @@ def main():
     writeTranslation(translation,genes)
     substitutionMatrixFiles = returnRecursiveDirFiles("substitutions")
     fragments               = returnRecursiveDirFiles("fragments")
-    genePath                = "genes.fasta"
+    genePath                = "phaseI_midyearpulse_whole_aa.fasta"
     # generate the alignment 
-#    for pathToFrag in fragments:
-#        infoToFrag = pathToFrag.split("/")
-#        for pathSubMatrix in substitutionMatrixFiles:
-#            matrixName       = pathSubMatrix.split("/")[-1]
-#            fragmentName     = infoToFrag[-1].replace(".fasta","")
-#            translatioNTable = infoToFrag[1]
-#            dir  = "/home/huyn/IGACAT/alignments/{}/".format(translatioNTable.replace(" ","_")+"/")
-#            try:
-#                os.mkdir(dir)
-#            except:
-#                pass
-#            name = "{}{}_{}".format(dir,fragmentName,matrixName)
-#            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
-#            print ("Working on {} ...".format(cmd))
-#            os.system(cmd)
+    for pathToFrag in fragments:
+        infoToFrag = pathToFrag.split("/")
+        for pathSubMatrix in substitutionMatrixFiles:
+            matrixName       = pathSubMatrix.split("/")[-1]
+            fragmentName     = infoToFrag[-1].replace(".fasta","")
+            translatioNTable = infoToFrag[1]
+            dir  = "/home/huyn/IGACAT/alignments/{}/".format(translatioNTable.replace(" ","_")+"/")
+            try:
+                os.mkdir(dir)
+            except:
+                pass
+            name = "{}{}_{}".format(dir,fragmentName,matrixName)
+            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
+            print ("Working on {} ...".format(cmd))
+            os.system(cmd)
     
     
 #     for each protein in they key, get the threat bin of it
-#    binsThreat = getThreatBin()
+    binsThreat = getThreatBin()
 
-#    # from the above, map seq to Threat
-##    seqToThreat = mapSeqThreat(binsThreat,dictionary)
+    # from the above, map seq to Threat
+#    seqToThreat = mapSeqThreat(binsThreat,dictionary)
     
     
-#    # standard table
-#    standard    = getStandard()
-#    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
-#    dictionary = getDictionary()
+    # standard table
+    standard    = getStandard()
+    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
+    dictionary = getDictionary()
     seqToProtein = json.load(open("seqToProtein.txt","r"))
     seqToProteinStandard = json.load(open("seqToProteinStandard.txt","r"))
     # getting the key result, to make comparison
