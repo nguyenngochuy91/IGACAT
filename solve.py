@@ -16,6 +16,7 @@ import time
 from collections import OrderedDict
 from sklearn.metrics import precision_recall_fscore_support as score
 from sklearn.metrics import classification_report
+import csv
 #this function will return all of the files that are in a directory. os.walk is recursive traversal.
 def returnRecursiveDirFiles(root_dir):
     result = []
@@ -214,42 +215,42 @@ def compare(seqToProtein,reduceKey):
 
 def main():
     start = time.time()
-#    translation,genes = getInfo()
-#    writeTranslation(translation,genes)
-#    substitutionMatrixFiles = returnRecursiveDirFiles("substitutions")
-#    fragments               = returnRecursiveDirFiles("fragments")
-#    genePath                = "phaseI_midyearpulse_whole_aa.fasta"
-#    # generate the alignment 
-#    for pathToFrag in fragments:
-#        infoToFrag = pathToFrag.split("/")
-#        for pathSubMatrix in substitutionMatrixFiles:
-#            matrixName       = pathSubMatrix.split("/")[-1]
-#            fragmentName     = infoToFrag[-1].replace(".fasta","")
-#            translatioNTable = infoToFrag[1]
-#            dir  = "/home/huyn/IGACAT/alignments/{}/".format(translatioNTable.replace(" ","_")+"/")
-#            try:
-#                os.mkdir(dir)
-#            except:
-#                pass
-#            name = "{}{}_{}".format(dir,fragmentName,matrixName)
-#            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
-#            print ("Working on {} ...".format(cmd))
-#            os.system(cmd)
-#    
-#    
+    translation,genes = getInfo()
+    writeTranslation(translation,genes)
+    substitutionMatrixFiles = returnRecursiveDirFiles("substitutions")
+    fragments               = returnRecursiveDirFiles("fragments")
+    genePath                = "phaseI_midyearpulse_whole_aa.fasta"
+    # generate the alignment 
+    for pathToFrag in fragments:
+        infoToFrag = pathToFrag.split("/")
+        for pathSubMatrix in substitutionMatrixFiles:
+            matrixName       = pathSubMatrix.split("/")[-1]
+            fragmentName     = infoToFrag[-1].replace(".fasta","")
+            translatioNTable = infoToFrag[1]
+            dir  = "/home/huyn/IGACAT/alignments/{}/".format(translatioNTable.replace(" ","_")+"/")
+            try:
+                os.mkdir(dir)
+            except:
+                pass
+            name = "{}{}_{}".format(dir,fragmentName,matrixName)
+            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
+            print ("Working on {} ...".format(cmd))
+            os.system(cmd)
+    
+    
 #     for each protein in they key, get the threat bin of it
-#    binsThreat = getThreatBin()
-#
-#    # from the above, map seq to Threat
-##    seqToThreat = mapSeqThreat(binsThreat,dictionary)
-#    
-#    
-    # standard table
-#    standard    = getStandard()
-#    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
-#    dictionary = getDictionary()
+    binsThreat = getThreatBin()
+
+    # from the above, map seq to Threat
+#    seqToThreat = mapSeqThreat(binsThreat,dictionary)
+    
+    
+#     standard table
+    standard    = getStandard()
+    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
+    dictionary = getDictionary()
     seqToProtein = json.load(open("seqToProtein.txt","r"))
-#    seqToProteinStandard = json.load(open("seqToProteinStandard.txt","r"))
+    seqToProteinStandard = json.load(open("seqToProteinStandard.txt","r"))
     # getting the key result, to make comparison
     k = Keys("phaseI_midyearpulse_selected_seqs_key_final.txt")
     # geneName 
@@ -274,46 +275,58 @@ def main():
     y_pred    = []
     y_true    = []
     genes     = [gene for gene in geneNames]
-    bins      = []
+
     for gene in reduceKey:
         y_true.append(reduceKey[gene])
         y_pred.append(seqToProtein[gene]['protein'])
-#        bins.append()
+
     result = classification_report(y_true, y_pred,output_dict=True)
-    outfile = open("analyze.txt","w")
-    # write the headlines
-    outfile.write("Precision and recall Table \n")
-    outfile.write("\t\t\t precision \t recall \t f1-score \t support \t bin \t name\n")
-    # wrtie the gene
-    avg =  ['macro avg','micro avg','weighted avg']
-    for gene in result:
-        if gene not in avg:
-            outfile.write("{}\t\t\t{}\t\t{}\t\t\t{}\t\t\t{}\t\t{}\t\t{}\n".format(gene,
-                          result[gene]['precision'],
-                          result[gene]['recall'],
-                          result[gene]['f1-score'],
-                          result[gene]['support'],
-                          binThreat[gene],
-                          geneNames[gene]))
-    for item in avg:
-        outfile.write("{} \t {} \t {} \t {} \t {}\n".format(item,
-                          result[item]['precision'],
-                          result[item]['recall'],
-                          result[item]['f1-score'],
-                          result[item]['support']))
     proteins = sorted(proteinDict,key= lambda x: proteinDict[x], reverse= True)
     transTables = sorted(translationTable,key= lambda x: translationTable[x], reverse= True)
     subsTables  = sorted(subsMatrix,key= lambda x: subsMatrix[x], reverse= True)
-    
-    outfile.write("\n")
-    for p in proteins:
-        outfile.write("{} : {}\n".format(p,proteinDict[p]))
-    outfile.write("\n")
-    for t in transTables:
-        outfile.write("{} : {}\n".format(t,translationTable[t]))
-    outfile.write("\n")
-    for s in subsTables:
-        outfile.write("{} : {}\n".format(s,subsMatrix[s]))
-    outfile.close()
+    # wrtie the gene
+    avg =  ['macro avg','micro avg','weighted avg']
+    with open('analyze.csv', 'w') as outfile:
+        fieldnames = ['protein','precision', 'recall','f1-score','support','bin','name']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for gene in result:
+            if gene not in avg:
+                writer.writerow({'protein':gene,
+                               'precision':result[gene]['precision'],
+                               'recall':result[gene]['recall'],
+                               'f1-score':result[gene]['f1-score'],
+                               'support':result[gene]['support'],
+                               'bin':binThreat[gene],
+                               'name':geneNames[gene]})
+        for item in avg:
+            writer.writerow({'protein':item,
+                                   'precision':result[item]['precision'],
+                                   'recall':result[item]['recall'],
+                                   'f1-score':result[item]['f1-score'],
+                                   'support':result[item]['support']})
+        writer.writerow({})
+        writer.writerow({})
+        fieldnames = ['protein','count']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for p in proteins:
+            writer.writerow({"protein":p,"count":proteinDict[p]})
+        writer.writerow({})
+        writer.writerow({})
+        fieldnames = ['translationTable','count']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for t in transTables:
+            writer.writerow({"translationTable":t,"count":translationTable[t]})
+        writer.writerow({})
+        writer.writerow({})
+        fieldnames = ['subsTable','count']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for s in subsTables:
+            writer.writerow({"subsTable":s,"count":subsMatrix[s]})
+
     return geneNames,missing,result,proteinDict,translationTable,subsTables
 geneNames,missing,result,proteinDict,translationTable,subsTables = main()
