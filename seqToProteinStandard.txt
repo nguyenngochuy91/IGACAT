@@ -1,2102 +1,2402 @@
 {
-    "Seq6394": [
-        "AEE27845", 
-        100.0, 
-        7.4e-27, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq1875": [
-        "AAR37016", 
-        100.0, 
-        1.7e-19, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq7956": [
-        "ACH70904", 
-        100.0, 
-        0.084, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq1872": [
-        "AAR37016", 
-        100.0, 
-        2.6e-23, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq1210": [
-        "AAC97205", 
-        100.0, 
-        2.2e-13, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10003": [
-        "ABD33854", 
-        100.0, 
-        3.0, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq479": [
-        "AAA26915", 
-        100.0, 
-        2.2e-10, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq1880": [
-        "AAR37016", 
-        100.0, 
-        6.9e-15, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq8221": [
-        "EDO47375", 
-        100.0, 
-        3.8, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7317": [
-        "ABL74574", 
-        100.0, 
-        2.2, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7734": [
-        "ABG75784", 
-        100.0, 
-        6.6e-38, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq9236": [
-        "CAD53387", 
-        100.0, 
-        0.69, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq6245": [
-        "ABS38337", 
-        100.0, 
-        5.9e-25, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq10001": [
-        "AIR13712", 
-        100.0, 
-        1.4, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq6329": [
-        "AEE27845", 
-        100.0, 
-        9.4e-30, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq7905": [
-        "AAA42531", 
-        100.0, 
-        1.6, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq7953": [
-        "CAA73529", 
-        100.0, 
-        2.0, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq10020": [
-        "AAA72732", 
-        100.0, 
-        4.1, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq5806": [
-        "AAQ92751", 
-        100.0, 
-        4.5e-26, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7623": [
-        "AAR31603", 
-        100.0, 
-        2.7, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq1071": [
-        "AAC08817", 
-        100.0, 
-        6.4e-17, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq1072": [
-        "AAC08817", 
-        100.0, 
-        3e-14, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq1431": [
-        "AAH69556", 
-        100.0, 
-        9.8e-16, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq162": [
-        "AAA24969", 
-        100.0, 
-        4.3e-16, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq10022": [
-        "AAA72732", 
-        100.0, 
-        2.0, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq10005": [
-        "AAA36565", 
-        100.0, 
-        0.53, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq10025": [
-        "CAD53387", 
-        83.33, 
-        2.9, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10026": [
-        "AAA32624", 
-        100.0, 
-        1.0, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq10027": [
-        "AAA32624", 
-        100.0, 
-        1.1, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq6140": [
-        "ABK71357", 
-        100.0, 
-        7.7e-21, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq76": [
-        "AAA23282", 
-        100.0, 
-        8.8e-15, 
-        "BLOSUM65", 
-        "Standard"
-    ], 
-    "Seq5471": [
-        "AAB03707", 
-        100.0, 
-        6.9e-24, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq7787": [
-        "ABS38337", 
-        100.0, 
-        7.3e-35, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq1786": [
-        "AAA42531", 
-        100.0, 
-        2.7, 
-        "BLOSUM65", 
-        "Standard"
-    ], 
-    "Seq5910": [
-        "AAR37016", 
-        100.0, 
-        8.6e-43, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq10082": [
-        "ABD33854", 
-        100.0, 
-        1.7, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq6352": [
-        "CAA26230", 
-        100.0, 
-        2.4, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq10080": [
-        "EDO47375", 
-        100.0, 
-        2.9, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq5540": [
-        "AAC17860", 
-        100.0, 
-        1.3e-34, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq5292": [
-        "AAA42531", 
-        100.0, 
-        3.7e-46, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq2090": [
-        "ABD49687", 
-        100.0, 
-        8.1e-11, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10066": [
-        "CAD53387", 
-        100.0, 
-        3.0, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq7829": [
-        "CAA43372", 
-        100.0, 
-        1.2, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq9242": [
-        "CAD53387", 
-        100.0, 
-        1.9e-106, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq306": [
-        "AAB03707", 
-        100.0, 
-        1.5, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq570": [
-        "ABN10845", 
-        100.0, 
-        1.6, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq10007": [
-        "AAA72732", 
-        100.0, 
-        3.0, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq713": [
-        "AAA65607", 
-        100.0, 
-        3.1e-14, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq978": [
-        "AAB03707", 
-        100.0, 
-        2e-17, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq6302": [
-        "ACT10338", 
-        100.0, 
-        9.1e-26, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq7225": [
-        "BAA32956", 
-        100.0, 
-        1.5, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq5596": [
-        "AAC97205", 
-        100.0, 
-        0.74, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq1971": [
-        "AAR37016", 
-        100.0, 
-        2.9e-12, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq1044": [
-        "AAB96524", 
-        100.0, 
-        2.9e-17, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq7758": [
-        "CAA74140", 
-        100.0, 
-        3.8, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq10032": [
-        "AAH69556", 
-        100.0, 
-        0.89, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq10031": [
-        "AAA65607", 
-        100.0, 
-        1.5, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq7703": [
-        "ABD49687", 
-        100.0, 
-        4.7e-40, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq7334": [
-        "AAA36565", 
-        100.0, 
-        3.6e-67, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq10035": [
-        "AAA24969", 
-        100.0, 
-        2.7, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq5156": [
-        "AAA25966", 
-        100.0, 
-        2.9, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5193": [
-        "AAA25966", 
-        100.0, 
-        3.4e-32, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq10039": [
-        "AAB26998", 
-        100.0, 
-        1.5, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10009": [
-        "AAA36565", 
-        100.0, 
-        0.73, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq8238": [
-        "CAA04196", 
-        100.0, 
-        0.22, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq6312": [
-        "AAC97205", 
-        100.0, 
-        2.6, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq8122": [
-        "ABD49687", 
-        100.0, 
-        1.8, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq10023": [
-        "AAA72732", 
-        100.0, 
-        1.9, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq663": [
-        "AAA45888", 
-        100.0, 
-        0.0089, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq5822": [
-        "AAA25966", 
-        100.0, 
-        4.4, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq10073": [
-        "AAA42531", 
-        100.0, 
-        0.96, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq201": [
-        "ABN10845", 
-        100.0, 
-        0.1, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq1409": [
-        "AAH69556", 
-        100.0, 
-        2.6e-10, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq8102": [
-        "AAA24142", 
-        100.0, 
-        3.5, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq254": [
-        "AAA24969", 
-        100.0, 
-        5.3e-22, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq5105": [
-        "AAA24969", 
-        100.0, 
-        2.1e-17, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq8091": [
-        "CAA73529", 
-        100.0, 
-        1.9e-67, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq10030": [
-        "AAA65607", 
-        100.0, 
-        3.1, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq1407": [
-        "AAF01122", 
-        100.0, 
-        5.9e-14, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq6432": [
-        "BAA32956", 
-        100.0, 
-        0.11, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq1647": [
-        "AAQ92751", 
-        100.0, 
-        3.4e-14, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq7608": [
-        "CAD53387", 
-        100.0, 
-        3.3, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq1515": [
-        "AAQ92751", 
-        100.0, 
-        1.3e-13, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq7236": [
-        "AAB26998", 
-        100.0, 
-        4.0, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq1214": [
-        "AAC97205", 
-        100.0, 
-        4.3e-09, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq5024": [
-        "AAA23282", 
-        100.0, 
-        6.4e-29, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq5229": [
-        "CAA04196", 
-        100.0, 
-        3.0, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq8008": [
-        "AAA72732", 
-        100.0, 
-        7.2, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq1648": [
-        "AAQ92751", 
-        100.0, 
-        6.6e-13, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq10006": [
-        "AAA65607", 
-        100.0, 
-        2.6, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq6328": [
-        "CAA45199", 
-        100.0, 
-        0.98, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq8030": [
-        "AAI27517", 
-        100.0, 
-        1.4, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq10002": [
-        "AAA36565", 
-        100.0, 
-        0.61, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq7442": [
-        "AAC08817", 
-        100.0, 
-        8.6e-33, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq2121": [
-        "CAA43372", 
-        100.0, 
-        1.9, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq7329": [
-        "ABD33854", 
-        100.0, 
-        2.7, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq7689": [
-        "ABD49687", 
-        100.0, 
-        1.2e-41, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq5926": [
-        "AAR37016", 
-        100.0, 
-        2.7e-27, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq388": [
-        "AAA25966", 
-        100.0, 
-        1.3e-17, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq7604": [
-        "AAR37016", 
-        100.0, 
-        5.6e-39, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq5612": [
-        "AAR31603", 
-        100.0, 
-        0.35, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq7527": [
-        "AAH69556", 
-        100.0, 
-        2.3e-38, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq8244": [
-        "AAB26998", 
-        100.0, 
-        3.5, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq6439": [
-        "ABK71357", 
-        100.0, 
-        0.78, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq553": [
-        "CAA11507", 
-        100.0, 
-        0.34, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq7788": [
-        "CAA11507", 
-        100.0, 
-        1.2, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq10034": [
-        "AAB26998", 
-        100.0, 
-        0.55, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq8099": [
-        "CAA74140", 
-        100.0, 
-        2.6e-32, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq329": [
-        "AAA24969", 
-        100.0, 
-        2.5e-19, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq8494": [
-        "CAA04196", 
-        100.0, 
-        1.9, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq1715": [
-        "BAA32956", 
-        100.0, 
-        0.18, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq1077": [
-        "AAC08817", 
-        100.0, 
-        9.6e-14, 
-        "BLOSUM65", 
-        "Standard"
-    ], 
-    "Seq8413": [
-        "ACH70904", 
-        100.0, 
-        3.1, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq6340": [
-        "AEE27845", 
-        100.0, 
-        4.6e-22, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq5139": [
-        "CAA04196", 
-        100.0, 
-        2.2, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq7921": [
-        "AAA32624", 
-        100.0, 
-        2.0, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq7843": [
-        "AEE27845", 
-        100.0, 
-        1.5e-27, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq8551": [
-        "CAA04196", 
-        100.0, 
-        2.3, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq5605": [
-        "AAC97205", 
-        100.0, 
-        1.2e-23, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7845": [
-        "BAA32018", 
-        100.0, 
-        0.55, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq240": [
-        "AAA24969", 
-        100.0, 
-        3.2e-09, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq10019": [
-        "AAA72732", 
-        100.0, 
-        2.8, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq405": [
-        "AAA25966", 
-        100.0, 
-        3.6e-18, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq5231": [
-        "AAQ92751", 
-        100.0, 
-        2.8, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq8393": [
-        "CAA11507", 
-        100.0, 
-        0.39, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq7613": [
-        "AAR37016", 
-        100.0, 
-        5.1e-62, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq5987": [
-        "AAA36565", 
-        100.0, 
-        3.1, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq10011": [
-        "AAA36565", 
-        100.0, 
-        0.57, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq10010": [
-        "AAA36565", 
-        100.0, 
-        0.61, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq10013": [
-        "AAC78721", 
-        100.0, 
-        4.1, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq7754": [
-        "AAA24142", 
-        100.0, 
-        4.5, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq10017": [
-        "AAA72732", 
-        100.0, 
-        2.8, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq10016": [
-        "BAE97662", 
-        100.0, 
-        2.4, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq5533": [
-        "AAC17860", 
-        100.0, 
-        1.9e-20, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq148": [
-        "AAA24142", 
-        100.0, 
-        1.3e-24, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq5447": [
-        "AAB03707", 
-        100.0, 
-        2.8e-20, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq6238": [
-        "ABS38337", 
-        100.0, 
-        8.3e-26, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7696": [
-        "ABD49687", 
-        100.0, 
-        1.5e-40, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq7352": [
-        "AAA45888", 
-        100.0, 
-        1.1e-36, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq150": [
-        "AAA24142", 
-        100.0, 
-        7.6e-18, 
-        "BLOSUM65", 
-        "Standard"
-    ], 
-    "Seq7288": [
-        "AAA42531", 
-        100.0, 
-        1.4, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq1026": [
-        "CAA45199", 
-        100.0, 
-        1.5, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq8117": [
-        "CAA74140", 
-        100.0, 
-        1.6e-36, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq8081": [
-        "CAA45199", 
-        100.0, 
-        4.9e-38, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq6294": [
-        "CAA74140", 
-        100.0, 
-        2.9, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq335": [
-        "AAA24969", 
-        100.0, 
-        6.6e-18, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq525": [
-        "AAA32624", 
-        100.0, 
-        1.4e-16, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq135": [
-        "AAB03707", 
-        100.0, 
-        0.68, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq7497": [
-        "AAC97205", 
-        100.0, 
-        6.7e-34, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq8569": [
-        "ABS38337", 
-        100.0, 
-        1.3e-82, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq10029": [
-        "AAA32624", 
-        100.0, 
-        0.67, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq10077": [
-        "CAA74140", 
-        100.0, 
-        5.7, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq239": [
-        "AAA42531", 
-        100.0, 
-        0.22, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq714": [
-        "AAA65607", 
-        100.0, 
-        7.8e-14, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq7983": [
-        "CAA04196", 
-        100.0, 
-        4e-53, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq10063": [
-        "AAI27517", 
-        100.0, 
-        2.3, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7585": [
-        "AAQ92751", 
-        100.0, 
-        7e-35, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq6343": [
-        "AEE27845", 
-        100.0, 
-        9.1e-19, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq5637": [
-        "AAC97205", 
-        100.0, 
-        1.1e-44, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq7651": [
-        "AAA45888", 
-        100.0, 
-        2.1, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq10069": [
-        "BAB17681", 
-        100.0, 
-        2.8, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq10064": [
-        "AAB26998", 
-        100.0, 
-        0.89, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq10065": [
-        "CAD53387", 
-        100.0, 
-        4.1, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq6349": [
-        "AEE27845", 
-        100.0, 
-        3.2e-23, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq6348": [
-        "AEE27845", 
-        100.0, 
-        6.3e-27, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10060": [
-        "AAI27517", 
-        100.0, 
-        2.3, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq6450": [
-        "BAA32018", 
-        100.0, 
-        2.5e-49, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq7461": [
-        "BAB79260", 
-        100.0, 
-        0.27, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq9142": [
-        "AAB26998", 
-        100.0, 
-        0.93, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq5604": [
-        "BAA32991", 
-        100.0, 
-        1.5, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq2105": [
-        "ABD49687", 
-        100.0, 
-        6e-18, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq5084": [
-        "AAA24969", 
-        100.0, 
-        3.6e-20, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq5089": [
-        "CAA45199", 
-        100.0, 
-        4.0, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq5524": [
-        "BAA32956", 
-        100.0, 
-        3.3, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq5939": [
-        "AAR37016", 
-        100.0, 
-        7e-34, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq7345": [
-        "AAA42531", 
-        100.0, 
-        1.1e-50, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq7346": [
-        "AAA45888", 
-        100.0, 
-        1.2e-60, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq733": [
-        "AAA72732", 
-        100.0, 
-        6.5e-15, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10018": [
-        "AAA32624", 
-        100.0, 
-        2.0, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq5798": [
-        "ABD49687", 
-        100.0, 
-        4.6, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq165": [
-        "ABD33854", 
-        100.0, 
-        2.0, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7671": [
-        "AAX84812", 
-        100.0, 
-        6.5e-36, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq8070": [
-        "CAA43372", 
-        100.0, 
-        2.6e-31, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7670": [
-        "AAA25966", 
-        100.0, 
-        1.7, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq7469": [
-        "AAC78721", 
-        100.0, 
-        3e-33, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7598": [
-        "AAR37016", 
-        100.0, 
-        2.6e-39, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5420": [
-        "AAB03707", 
-        100.0, 
-        5.4e-25, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq185": [
-        "CAA45199", 
-        100.0, 
-        3.8, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq7908": [
-        "BAB17681", 
-        100.0, 
-        1.3e-51, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq9087": [
-        "AAX84812", 
-        100.0, 
-        0.86, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq5669": [
-        "AAF01122", 
-        100.0, 
-        5.3e-24, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq635": [
-        "AAA45888", 
-        100.0, 
-        5e-14, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq1575": [
-        "CAA26230", 
-        100.0, 
-        2.0, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq421": [
-        "AAA25966", 
-        100.0, 
-        4.3e-15, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq7901": [
-        "BAA32956", 
-        100.0, 
-        1.7e-38, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq1085": [
-        "AAC17860", 
-        100.0, 
-        6.8e-09, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7937": [
-        "AAX84812", 
-        100.0, 
-        3.0, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq5641": [
-        "AAC97205", 
-        100.0, 
-        1.6e-27, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq7783": [
-        "ABS38337", 
-        100.0, 
-        9.4e-52, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq9063": [
-        "AAA36565", 
-        100.0, 
-        1.2, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq8295": [
-        "AAA45888", 
-        100.0, 
-        5.8e-54, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq24": [
-        "AAH69556", 
-        100.0, 
-        4.3, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq5644": [
-        "AAA36565", 
-        100.0, 
-        1.3, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq5405": [
-        "AAB03707", 
-        100.0, 
-        3.5e-34, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq10076": [
-        "AAA18786", 
-        100.0, 
-        1.7, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq10075": [
-        "AAH69556", 
-        100.0, 
-        3.3, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq5572": [
-        "AAC78721", 
-        100.0, 
-        1.9e-22, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq5319": [
-        "AAA45888", 
-        100.0, 
-        2.6e-21, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq10072": [
-        "AAA42531", 
-        100.0, 
-        1.1, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq1779": [
-        "AAR37016", 
-        100.0, 
-        4.7e-21, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq10070": [
-        "AAA42531", 
-        100.0, 
-        1.3, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq1939": [
-        "AAR37016", 
-        100.0, 
-        8.6e-12, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5487": [
-        "ABD33854", 
-        100.0, 
-        0.78, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq5728": [
-        "AAI27517", 
-        100.0, 
-        1.9e-29, 
-        "BLOSUM60", 
-        "Standard"
-    ], 
-    "Seq2052": [
-        "AAX84812", 
-        100.0, 
-        1e-15, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq5098": [
-        "AII71783", 
-        100.0, 
-        0.52, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq7476": [
-        "AAC97205", 
-        100.0, 
-        4.2e-37, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq2117": [
-        "CAA43372", 
-        100.0, 
-        0.63, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq9176": [
-        "AAA45888", 
-        100.0, 
-        0.3, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq9171": [
-        "AAR31603", 
-        100.0, 
-        1.2, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq7262": [
-        "CAA04196", 
-        100.0, 
-        0.13, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7579": [
-        "CAA43372", 
-        100.0, 
-        1.2, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq216": [
-        "ABN10845", 
-        100.0, 
-        2.8, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq8218": [
-        "AAB03707", 
-        100.0, 
-        0.49, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq5940": [
-        "AAR37016", 
-        100.0, 
-        8.9e-39, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq80": [
-        "AAA72732", 
-        100.0, 
-        1.2, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq7473": [
-        "AAC78721", 
-        100.0, 
-        1.6e-26, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq9114": [
-        "ABN10845", 
-        100.0, 
-        0.32, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq8061": [
-        "BAA32018", 
-        100.0, 
-        2.7, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq8062": [
-        "CAA26230", 
-        100.0, 
-        1.1e-38, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5039": [
-        "AAA23282", 
-        100.0, 
-        7.2e-30, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq356": [
-        "AAA25966", 
-        100.0, 
-        5.3e-21, 
-        "BLOSUM65", 
-        "Standard"
-    ], 
-    "Seq1255": [
-        "AAC97205", 
-        100.0, 
-        1.7e-25, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq1256": [
-        "AAC97205", 
-        100.0, 
-        7.3e-19, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq7484": [
-        "BAA32956", 
-        100.0, 
-        2.8, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq9056": [
-        "ABD49687", 
-        100.0, 
-        0.9, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5953": [
-        "AAR37016", 
-        100.0, 
-        3.1e-22, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7488": [
-        "ABN10845", 
-        100.0, 
-        0.6, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq359": [
-        "AAA25966", 
-        100.0, 
-        2.1e-13, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq10056": [
-        "BAB17681", 
-        100.0, 
-        0.57, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq10042": [
-        "AAH69556", 
-        100.0, 
-        1.5, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq10043": [
-        "AAH69556", 
-        100.0, 
-        0.98, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq7970": [
-        "ABD33854", 
-        100.0, 
-        0.44, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq5654": [
-        "AAR37016", 
-        100.0, 
-        4.7, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq5307": [
-        "AAA45888", 
-        100.0, 
-        1.1e-30, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq10045": [
-        "AAA23282", 
-        100.0, 
-        3.3, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq17": [
-        "CAA26230", 
-        100.0, 
-        0.33, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq1884": [
-        "AAR37016", 
-        100.0, 
-        4.2e-14, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq10049": [
-        "BAA32956", 
-        100.0, 
-        0.98, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq5416": [
-        "AAB03707", 
-        100.0, 
-        1.9e-27, 
-        "BLOSUM65", 
-        "Standard"
-    ], 
-    "Seq5141": [
-        "AAA24969", 
-        100.0, 
-        5.8e-25, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq1807": [
-        "AAR37016", 
-        100.0, 
-        2.8e-11, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7408": [
-        "AAI27517", 
-        100.0, 
-        1.7, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5265": [
-        "AAA32624", 
-        100.0, 
-        8.7e-28, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq7561": [
-        "ACH70904", 
-        100.0, 
-        3.9, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq1397": [
-        "AAF01122", 
-        100.0, 
-        1.7e-15, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7274": [
-        "AAA25966", 
-        100.0, 
-        0.072, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq9161": [
-        "BAA32991", 
-        100.0, 
-        2.6, 
-        "BLOSUM85", 
-        "Standard"
-    ], 
-    "Seq7270": [
-        "AAA24969", 
-        100.0, 
-        4.7e-33, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq8348": [
-        "AAA32624", 
-        100.0, 
-        2.4, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq6387": [
-        "AEE27845", 
-        100.0, 
-        6.8e-25, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq7230": [
-        "AIR13712", 
-        100.0, 
-        3.1, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq995": [
-        "AAB26998", 
-        100.0, 
-        8.7e-24, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq6383": [
-        "AAA36565", 
-        100.0, 
-        1.8, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq6382": [
-        "BAA32991", 
-        100.0, 
-        3.1, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq6339": [
-        "AEE27845", 
-        100.0, 
-        6.9e-27, 
-        "BLOSUM80", 
-        "Standard"
-    ], 
-    "Seq6380": [
-        "AAB26998", 
-        100.0, 
-        0.44, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7885": [
-        "AAB26998", 
-        100.0, 
-        0.6, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq517": [
-        "AAA32624", 
-        100.0, 
-        7.8e-17, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq9101": [
-        "AAA26915", 
-        100.0, 
-        1.6, 
-        "BLOSUM90", 
-        "Standard"
-    ], 
-    "Seq8056": [
-        "AAA72732", 
-        100.0, 
-        1.8, 
-        "blosum100", 
-        "Standard"
-    ], 
-    "Seq6057": [
-        "ABD49687", 
-        100.0, 
-        4.1e-29, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq10041": [
-        "BAA32956", 
-        100.0, 
-        1.3, 
-        "BLOSUM75", 
-        "Standard"
-    ], 
-    "Seq5075": [
-        "EDO47375", 
-        100.0, 
-        3.8, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7715": [
-        "AAA25966", 
-        100.0, 
-        1.1, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq7714": [
-        "EDO47375", 
-        100.0, 
-        0.17, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq7960": [
-        "BAE97662", 
-        100.0, 
-        2e-33, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10047": [
-        "AAA72732", 
-        100.0, 
-        1.1, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq613": [
-        "AEE27845", 
-        100.0, 
-        2.5, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq7967": [
-        "BAE97662", 
-        100.0, 
-        1.2e-46, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq690": [
-        "AAA65607", 
-        100.0, 
-        6.5e-10, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10054": [
-        "BAA32956", 
-        100.0, 
-        0.98, 
-        "BLOSUM55", 
-        "Standard"
-    ], 
-    "Seq5576": [
-        "AAC78721", 
-        100.0, 
-        1.5e-22, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq10051": [
-        "ABD33854", 
-        100.0, 
-        2.5, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq10050": [
-        "ABL74574", 
-        100.0, 
-        3.2, 
-        "PAM110", 
-        "Standard"
-    ], 
-    "Seq1111": [
-        "AAC17860", 
-        100.0, 
-        5e-10, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq10052": [
-        "BAA32956", 
-        100.0, 
-        1.2, 
-        "BLOSUM50", 
-        "Standard"
-    ], 
-    "Seq6279": [
-        "ABD33854", 
-        100.0, 
-        0.46, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq5578": [
-        "AAC78721", 
-        100.0, 
-        1.8e-32, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq6433": [
-        "BAA32956", 
-        100.0, 
-        0.19, 
-        "PAM200", 
-        "Standard"
-    ], 
-    "Seq5567": [
-        "AAC78721", 
-        100.0, 
-        1.5e-28, 
-        "BLOSUM35", 
-        "Standard"
-    ], 
-    "Seq117": [
-        "AAA24142", 
-        100.0, 
-        9.2e-19, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq8353": [
-        "AAX84812", 
-        100.0, 
-        1.8, 
-        "BLOSUM30", 
-        "Standard"
-    ], 
-    "Seq1816": [
-        "BAA32991", 
-        100.0, 
-        3.2, 
-        "PAM100", 
-        "Standard"
-    ], 
-    "Seq6364": [
-        "BAA32018", 
-        100.0, 
-        0.16, 
-        "PAM130", 
-        "Standard"
-    ], 
-    "Seq7410": [
-        "AAC97205", 
-        100.0, 
-        0.82, 
-        "BLOSUM70", 
-        "Standard"
-    ], 
-    "Seq7414": [
-        "ACH70904", 
-        100.0, 
-        0.72, 
-        "PAM140", 
-        "Standard"
-    ], 
-    "Seq1383": [
-        "ABK71357", 
-        100.0, 
-        3.2, 
-        "PAM120", 
-        "Standard"
-    ], 
-    "Seq7319": [
-        "CAA04196", 
-        100.0, 
-        0.37, 
-        "BLOSUM40", 
-        "Standard"
-    ], 
-    "Seq1381": [
-        "AAF01122", 
-        100.0, 
-        1e-18, 
-        "BLOSUM50", 
-        "Standard"
-    ]
+    "Seq6394": {
+        "protein": "AEE27845", 
+        "bitscore": 161.5, 
+        "eVal": 8.1e-43, 
+        "alignmentLength": 43, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1875": {
+        "protein": "AAR37016", 
+        "bitscore": 123.6, 
+        "eVal": 2.8e-31, 
+        "alignmentLength": 32, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7956": {
+        "protein": "BAE97662", 
+        "bitscore": 323.7, 
+        "eVal": 2e-91, 
+        "alignmentLength": 85, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1872": {
+        "protein": "AAR37016", 
+        "bitscore": 114.4, 
+        "eVal": 1.4e-28, 
+        "alignmentLength": 27, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1210": {
+        "protein": "AAC97205", 
+        "bitscore": 103.3, 
+        "eVal": 1.5e-25, 
+        "alignmentLength": 25, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10003": {
+        "protein": "AAB03707", 
+        "bitscore": 26.8, 
+        "eVal": 0.07, 
+        "alignmentLength": 74, 
+        "matrix": "PAM200", 
+        "translationTable": "Standard"
+    }, 
+    "Seq479": {
+        "protein": "AAA26915", 
+        "bitscore": 63.1, 
+        "eVal": 4.4e-14, 
+        "alignmentLength": 16, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1880": {
+        "protein": "AAR37016", 
+        "bitscore": 107.5, 
+        "eVal": 1.4e-26, 
+        "alignmentLength": 24, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8221": {
+        "protein": "AAA24142", 
+        "bitscore": 398.4, 
+        "eVal": 3.2e-114, 
+        "alignmentLength": 105, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7317": {
+        "protein": "AAA32376", 
+        "bitscore": 255.9, 
+        "eVal": 6.6e-72, 
+        "alignmentLength": 70, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7734": {
+        "protein": "ABG75784", 
+        "bitscore": 307.5, 
+        "eVal": 3.9e-87, 
+        "alignmentLength": 81, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9236": {
+        "protein": "CAA74140", 
+        "bitscore": 978.8, 
+        "eVal": 0.0, 
+        "alignmentLength": 248, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6245": {
+        "protein": "ABS38337", 
+        "bitscore": 166.0, 
+        "eVal": 3.4e-44, 
+        "alignmentLength": 44, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10001": {
+        "protein": "ACH70904", 
+        "bitscore": 24.1, 
+        "eVal": 0.024, 
+        "alignmentLength": 17, 
+        "matrix": "BLOSUM50", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6329": {
+        "protein": "AEE27845", 
+        "bitscore": 205.0, 
+        "eVal": 8.7e-56, 
+        "alignmentLength": 55, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7905": {
+        "protein": "BAA32991", 
+        "bitscore": 301.7, 
+        "eVal": 4.1e-86, 
+        "alignmentLength": 69, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7953": {
+        "protein": "BAE97662", 
+        "bitscore": 257.2, 
+        "eVal": 1.7e-71, 
+        "alignmentLength": 72, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10020": {
+        "protein": "AAA42531", 
+        "bitscore": 27.6, 
+        "eVal": 0.005, 
+        "alignmentLength": 49, 
+        "matrix": "BLOSUM35", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5806": {
+        "protein": "AAQ92751", 
+        "bitscore": 209.8, 
+        "eVal": 3.2e-57, 
+        "alignmentLength": 57, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7623": {
+        "protein": "AAR37016", 
+        "bitscore": 298.3, 
+        "eVal": 1.7e-83, 
+        "alignmentLength": 78, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1071": {
+        "protein": "AAC08817", 
+        "bitscore": 107.8, 
+        "eVal": 8e-28, 
+        "alignmentLength": 24, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1072": {
+        "protein": "AAC08817", 
+        "bitscore": 76.1, 
+        "eVal": 2.1e-18, 
+        "alignmentLength": 18, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1431": {
+        "protein": "AAH69556", 
+        "bitscore": 116.7, 
+        "eVal": 3.6e-30, 
+        "alignmentLength": 28, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq162": {
+        "protein": "AAA24969", 
+        "bitscore": 118.0, 
+        "eVal": 7.9e-30, 
+        "alignmentLength": 29, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10022": {
+        "protein": "AAA42531", 
+        "bitscore": 27.5, 
+        "eVal": 0.0055, 
+        "alignmentLength": 49, 
+        "matrix": "BLOSUM35", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10005": {
+        "protein": "AAB03707", 
+        "bitscore": 27.4, 
+        "eVal": 0.031, 
+        "alignmentLength": 71, 
+        "matrix": "BLOSUM55", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10025": {
+        "protein": "ACT10338", 
+        "bitscore": 23.6, 
+        "eVal": 0.068, 
+        "alignmentLength": 44, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10026": {
+        "protein": "AAB64315", 
+        "bitscore": 23.1, 
+        "eVal": 0.062, 
+        "alignmentLength": 17, 
+        "matrix": "BLOSUM70", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10027": {
+        "protein": "ABG75784", 
+        "bitscore": 25.5, 
+        "eVal": 0.015, 
+        "alignmentLength": 23, 
+        "matrix": "PAM110", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6140": {
+        "protein": "ABK71357", 
+        "bitscore": 160.9, 
+        "eVal": 3.6e-43, 
+        "alignmentLength": 47, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq76": {
+        "protein": "AAA23282", 
+        "bitscore": 95.3, 
+        "eVal": 1.7e-23, 
+        "alignmentLength": 24, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5471": {
+        "protein": "AAB03707", 
+        "bitscore": 157.0, 
+        "eVal": 1.9e-41, 
+        "alignmentLength": 46, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7787": {
+        "protein": "ABS38337", 
+        "bitscore": 328.2, 
+        "eVal": 1.1e-92, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1786": {
+        "protein": "AAR37016", 
+        "bitscore": 112.3, 
+        "eVal": 5.9e-28, 
+        "alignmentLength": 28, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5910": {
+        "protein": "AAR37016", 
+        "bitscore": 211.8, 
+        "eVal": 1.1e-57, 
+        "alignmentLength": 46, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10082": {
+        "protein": "CAA45199", 
+        "bitscore": 26.6, 
+        "eVal": 0.0073, 
+        "alignmentLength": 28, 
+        "matrix": "PAM200", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6352": {
+        "protein": "AEE27845", 
+        "bitscore": 198.4, 
+        "eVal": 7.9e-54, 
+        "alignmentLength": 51, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10080": {
+        "protein": "AAR37016", 
+        "bitscore": 23.2, 
+        "eVal": 0.2, 
+        "alignmentLength": 13, 
+        "matrix": "PAM110", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5540": {
+        "protein": "AAC17860", 
+        "bitscore": 194.1, 
+        "eVal": 4.3e-53, 
+        "alignmentLength": 50, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5292": {
+        "protein": "AAA42531", 
+        "bitscore": 240.6, 
+        "eVal": 5.1e-67, 
+        "alignmentLength": 60, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq2090": {
+        "protein": "AAI27517", 
+        "bitscore": 22.0, 
+        "eVal": 0.18, 
+        "alignmentLength": 31, 
+        "matrix": "BLOSUM80", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10066": {
+        "protein": "AAB26998", 
+        "bitscore": 25.2, 
+        "eVal": 0.0028, 
+        "alignmentLength": 24, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7829": {
+        "protein": "AEE27845", 
+        "bitscore": 333.8, 
+        "eVal": 2.3e-94, 
+        "alignmentLength": 88, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9242": {
+        "protein": "CAD53387", 
+        "bitscore": 811.4, 
+        "eVal": 0.0, 
+        "alignmentLength": 228, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq306": {
+        "protein": "AAA24969", 
+        "bitscore": 109.3, 
+        "eVal": 2.9e-27, 
+        "alignmentLength": 26, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq570": {
+        "protein": "AAA36565", 
+        "bitscore": 93.0, 
+        "eVal": 2.1e-23, 
+        "alignmentLength": 22, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10007": {
+        "protein": "AAC97205", 
+        "bitscore": 25.3, 
+        "eVal": 0.15, 
+        "alignmentLength": 53, 
+        "matrix": "blosum100", 
+        "translationTable": "Standard"
+    }, 
+    "Seq713": {
+        "protein": "AAA65607", 
+        "bitscore": 85.4, 
+        "eVal": 9.9e-21, 
+        "alignmentLength": 24, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq978": {
+        "protein": "AAB03707", 
+        "bitscore": 126.4, 
+        "eVal": 2.2e-32, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6302": {
+        "protein": "ACT10338", 
+        "bitscore": 135.5, 
+        "eVal": 1.2e-35, 
+        "alignmentLength": 33, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7225": {
+        "protein": "AAA24142", 
+        "bitscore": 284.3, 
+        "eVal": 5e-80, 
+        "alignmentLength": 76, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5596": {
+        "protein": "AAC97205", 
+        "bitscore": 140.7, 
+        "eVal": 1.2e-36, 
+        "alignmentLength": 38, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1971": {
+        "protein": "AAR37016", 
+        "bitscore": 98.9, 
+        "eVal": 5.8e-24, 
+        "alignmentLength": 25, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1044": {
+        "protein": "AAB96524", 
+        "bitscore": 88.1, 
+        "eVal": 7.2e-22, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7758": {
+        "protein": "ABN10845", 
+        "bitscore": 335.8, 
+        "eVal": 9e-96, 
+        "alignmentLength": 85, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10032": {
+        "protein": "BAA32991", 
+        "bitscore": 24.5, 
+        "eVal": 0.0056, 
+        "alignmentLength": 30, 
+        "matrix": "BLOSUM30", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10031": {
+        "protein": "AAC97205", 
+        "bitscore": 24.6, 
+        "eVal": 0.1, 
+        "alignmentLength": 24, 
+        "matrix": "BLOSUM65", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7703": {
+        "protein": "ABD49687", 
+        "bitscore": 338.4, 
+        "eVal": 1.2e-95, 
+        "alignmentLength": 87, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7334": {
+        "protein": "AAA36565", 
+        "bitscore": 345.8, 
+        "eVal": 6.8e-99, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10035": {
+        "protein": "ABK71357", 
+        "bitscore": 22.0, 
+        "eVal": 0.069, 
+        "alignmentLength": 12, 
+        "matrix": "BLOSUM60", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5156": {
+        "protein": "AAA24969", 
+        "bitscore": 166.1, 
+        "eVal": 4.2e-44, 
+        "alignmentLength": 47, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5193": {
+        "protein": "AAA25966", 
+        "bitscore": 174.6, 
+        "eVal": 5.3e-47, 
+        "alignmentLength": 46, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10039": {
+        "protein": "CAA04196", 
+        "bitscore": 26.2, 
+        "eVal": 0.012, 
+        "alignmentLength": 41, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10009": {
+        "protein": "AAA42531", 
+        "bitscore": 26.0, 
+        "eVal": 0.019, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM70", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8238": {
+        "protein": "AAA24969", 
+        "bitscore": 616.4, 
+        "eVal": 3.8e-179, 
+        "alignmentLength": 157, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6312": {
+        "protein": "ACT10338", 
+        "bitscore": 246.4, 
+        "eVal": 9.3e-69, 
+        "alignmentLength": 64, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8122": {
+        "protein": "CAA74140", 
+        "bitscore": 296.5, 
+        "eVal": 2.6e-83, 
+        "alignmentLength": 83, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10023": {
+        "protein": "AAA42531", 
+        "bitscore": 27.2, 
+        "eVal": 0.0066, 
+        "alignmentLength": 49, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq663": {
+        "protein": "AAA45888", 
+        "bitscore": 127.9, 
+        "eVal": 2.1e-33, 
+        "alignmentLength": 30, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5822": {
+        "protein": "AAR31603", 
+        "bitscore": 262.1, 
+        "eVal": 1.5e-73, 
+        "alignmentLength": 63, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10073": {
+        "protein": "BAB70780", 
+        "bitscore": 20.6, 
+        "eVal": 0.2, 
+        "alignmentLength": 12, 
+        "matrix": "blosum100", 
+        "translationTable": "Standard"
+    }, 
+    "Seq201": {
+        "protein": "AAA24969", 
+        "bitscore": 64.7, 
+        "eVal": 5e-14, 
+        "alignmentLength": 17, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1409": {
+        "protein": "AAH69556", 
+        "bitscore": 73.9, 
+        "eVal": 1.6e-17, 
+        "alignmentLength": 16, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8102": {
+        "protein": "CAA74140", 
+        "bitscore": 378.8, 
+        "eVal": 5e-108, 
+        "alignmentLength": 97, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq254": {
+        "protein": "AAA24969", 
+        "bitscore": 117.8, 
+        "eVal": 8.1e-30, 
+        "alignmentLength": 27, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5105": {
+        "protein": "AAA24969", 
+        "bitscore": 143.0, 
+        "eVal": 3.1e-37, 
+        "alignmentLength": 40, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8091": {
+        "protein": "CAA73529", 
+        "bitscore": 335.6, 
+        "eVal": 1.3e-95, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10030": {
+        "protein": "AAX84812", 
+        "bitscore": 23.2, 
+        "eVal": 0.043, 
+        "alignmentLength": 34, 
+        "matrix": "BLOSUM30", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1407": {
+        "protein": "AAF01122", 
+        "bitscore": 80.5, 
+        "eVal": 2.5e-19, 
+        "alignmentLength": 20, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6432": {
+        "protein": "AIR13712", 
+        "bitscore": 140.0, 
+        "eVal": 5.9e-37, 
+        "alignmentLength": 43, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1647": {
+        "protein": "AAQ92751", 
+        "bitscore": 91.4, 
+        "eVal": 5e-22, 
+        "alignmentLength": 20, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7608": {
+        "protein": "AAR37016", 
+        "bitscore": 279.5, 
+        "eVal": 6.8e-78, 
+        "alignmentLength": 69, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1515": {
+        "protein": "AAQ92751", 
+        "bitscore": 103.9, 
+        "eVal": 1.1e-25, 
+        "alignmentLength": 27, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7236": {
+        "protein": "AAA24969", 
+        "bitscore": 316.5, 
+        "eVal": 4.2e-89, 
+        "alignmentLength": 88, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1214": {
+        "protein": "AAC97205", 
+        "bitscore": 75.6, 
+        "eVal": 2.2e-17, 
+        "alignmentLength": 17, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5024": {
+        "protein": "AAA23282", 
+        "bitscore": 227.0, 
+        "eVal": 9.5e-63, 
+        "alignmentLength": 63, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5229": {
+        "protein": "AAA26915", 
+        "bitscore": 211.8, 
+        "eVal": 2.7e-58, 
+        "alignmentLength": 56, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8008": {
+        "protein": "CAA11507", 
+        "bitscore": 341.3, 
+        "eVal": 1.3e-96, 
+        "alignmentLength": 92, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1648": {
+        "protein": "AAQ92751", 
+        "bitscore": 89.2, 
+        "eVal": 2.1e-21, 
+        "alignmentLength": 19, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10006": {
+        "protein": "AAA42531", 
+        "bitscore": 26.0, 
+        "eVal": 0.02, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM70", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6328": {
+        "protein": "AEE27845", 
+        "bitscore": 248.0, 
+        "eVal": 1.2e-68, 
+        "alignmentLength": 65, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8030": {
+        "protein": "CAA11507", 
+        "bitscore": 250.2, 
+        "eVal": 2.6e-69, 
+        "alignmentLength": 69, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10002": {
+        "protein": "AAI27517", 
+        "bitscore": 26.5, 
+        "eVal": 0.042, 
+        "alignmentLength": 91, 
+        "matrix": "PAM200", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7442": {
+        "protein": "AAC08817", 
+        "bitscore": 275.6, 
+        "eVal": 7.7e-78, 
+        "alignmentLength": 76, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq2121": {
+        "protein": "ABD49687", 
+        "bitscore": 109.8, 
+        "eVal": 2.2e-27, 
+        "alignmentLength": 26, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7329": {
+        "protein": "AAA32624", 
+        "bitscore": 328.9, 
+        "eVal": 2.6e-93, 
+        "alignmentLength": 86, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7689": {
+        "protein": "ABD49687", 
+        "bitscore": 351.0, 
+        "eVal": 2e-99, 
+        "alignmentLength": 91, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5926": {
+        "protein": "AAR37016", 
+        "bitscore": 244.0, 
+        "eVal": 2.7e-67, 
+        "alignmentLength": 55, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq388": {
+        "protein": "AAA25966", 
+        "bitscore": 116.6, 
+        "eVal": 1e-29, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7604": {
+        "protein": "AAR37016", 
+        "bitscore": 358.9, 
+        "eVal": 1.1e-101, 
+        "alignmentLength": 88, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5612": {
+        "protein": "AAC97205", 
+        "bitscore": 236.7, 
+        "eVal": 2.5e-65, 
+        "alignmentLength": 61, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7527": {
+        "protein": "AAH69556", 
+        "bitscore": 319.9, 
+        "eVal": 6.9e-91, 
+        "alignmentLength": 81, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8244": {
+        "protein": "AAA24969", 
+        "bitscore": 700.8, 
+        "eVal": 1.8e-204, 
+        "alignmentLength": 188, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6439": {
+        "protein": "AIR13712", 
+        "bitscore": 174.1, 
+        "eVal": 3.7e-47, 
+        "alignmentLength": 51, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq553": {
+        "protein": "AAA32624", 
+        "bitscore": 130.4, 
+        "eVal": 5.3e-34, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7788": {
+        "protein": "ABS38337", 
+        "bitscore": 337.2, 
+        "eVal": 2.2e-95, 
+        "alignmentLength": 97, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10034": {
+        "protein": "CAD53387", 
+        "bitscore": 24.0, 
+        "eVal": 0.033, 
+        "alignmentLength": 17, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8099": {
+        "protein": "CAA74140", 
+        "bitscore": 252.7, 
+        "eVal": 3.1e-70, 
+        "alignmentLength": 67, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq329": {
+        "protein": "AAA24969", 
+        "bitscore": 113.7, 
+        "eVal": 1.6e-28, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8494": {
+        "protein": "AAX12058", 
+        "bitscore": 600.1, 
+        "eVal": 5.5e-175, 
+        "alignmentLength": 152, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1715": {
+        "protein": "AAR31603", 
+        "bitscore": 121.3, 
+        "eVal": 1.7e-31, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1077": {
+        "protein": "AAC08817", 
+        "bitscore": 81.9, 
+        "eVal": 3.7e-20, 
+        "alignmentLength": 18, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8413": {
+        "protein": "AAI27517", 
+        "bitscore": 625.4, 
+        "eVal": 3e-182, 
+        "alignmentLength": 162, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6340": {
+        "protein": "AEE27845", 
+        "bitscore": 159.7, 
+        "eVal": 3.2e-42, 
+        "alignmentLength": 46, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5139": {
+        "protein": "AAA24969", 
+        "bitscore": 180.2, 
+        "eVal": 2.6e-48, 
+        "alignmentLength": 51, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7921": {
+        "protein": "BAB70780", 
+        "bitscore": 370.3, 
+        "eVal": 9.5e-106, 
+        "alignmentLength": 98, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7843": {
+        "protein": "AEE27845", 
+        "bitscore": 257.7, 
+        "eVal": 1.6e-71, 
+        "alignmentLength": 71, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8551": {
+        "protein": "ABN10845", 
+        "bitscore": 651.5, 
+        "eVal": 1.5e-190, 
+        "alignmentLength": 159, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5605": {
+        "protein": "AAC97205", 
+        "bitscore": 205.7, 
+        "eVal": 4.7e-56, 
+        "alignmentLength": 54, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7845": {
+        "protein": "AEE27845", 
+        "bitscore": 327.3, 
+        "eVal": 2.2e-92, 
+        "alignmentLength": 92, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq240": {
+        "protein": "AAA24969", 
+        "bitscore": 85.4, 
+        "eVal": 3.8e-20, 
+        "alignmentLength": 22, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10019": {
+        "protein": "AAA42531", 
+        "bitscore": 28.3, 
+        "eVal": 0.0032, 
+        "alignmentLength": 49, 
+        "matrix": "BLOSUM35", 
+        "translationTable": "Standard"
+    }, 
+    "Seq405": {
+        "protein": "AAA25966", 
+        "bitscore": 97.0, 
+        "eVal": 6.3e-24, 
+        "alignmentLength": 24, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5231": {
+        "protein": "AAA26915", 
+        "bitscore": 188.9, 
+        "eVal": 1.9e-51, 
+        "alignmentLength": 51, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8393": {
+        "protein": "AAC97205", 
+        "bitscore": 530.4, 
+        "eVal": 2.1e-153, 
+        "alignmentLength": 141, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7613": {
+        "protein": "AAR37016", 
+        "bitscore": 299.5, 
+        "eVal": 7.8e-84, 
+        "alignmentLength": 80, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5987": {
+        "protein": "AAX12058", 
+        "bitscore": 165.5, 
+        "eVal": 1.1e-44, 
+        "alignmentLength": 45, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10011": {
+        "protein": "AAA42531", 
+        "bitscore": 26.2, 
+        "eVal": 0.017, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM70", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10010": {
+        "protein": "CAA74140", 
+        "bitscore": 24.2, 
+        "eVal": 0.16, 
+        "alignmentLength": 65, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10013": {
+        "protein": "AAA42531", 
+        "bitscore": 27.1, 
+        "eVal": 0.0073, 
+        "alignmentLength": 49, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7754": {
+        "protein": "ABL74574", 
+        "bitscore": 304.8, 
+        "eVal": 2.3e-86, 
+        "alignmentLength": 80, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10017": {
+        "protein": "BAB17681", 
+        "bitscore": 28.2, 
+        "eVal": 0.0011, 
+        "alignmentLength": 24, 
+        "matrix": "blosum100", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10016": {
+        "protein": "AAX84812", 
+        "bitscore": 28.1, 
+        "eVal": 0.0012, 
+        "alignmentLength": 21, 
+        "matrix": "BLOSUM60", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5533": {
+        "protein": "AAC17860", 
+        "bitscore": 160.0, 
+        "eVal": 7.1e-43, 
+        "alignmentLength": 45, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq148": {
+        "protein": "AAA24142", 
+        "bitscore": 134.6, 
+        "eVal": 2.5e-35, 
+        "alignmentLength": 32, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5447": {
+        "protein": "AAB03707", 
+        "bitscore": 125.4, 
+        "eVal": 5.2e-32, 
+        "alignmentLength": 36, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6238": {
+        "protein": "ABS38337", 
+        "bitscore": 241.6, 
+        "eVal": 8.5e-67, 
+        "alignmentLength": 63, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7696": {
+        "protein": "ABD49687", 
+        "bitscore": 356.9, 
+        "eVal": 3.1e-101, 
+        "alignmentLength": 88, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7352": {
+        "protein": "AAA45888", 
+        "bitscore": 253.2, 
+        "eVal": 1e-70, 
+        "alignmentLength": 75, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq150": {
+        "protein": "AAA24142", 
+        "bitscore": 99.1, 
+        "eVal": 8.7e-25, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7288": {
+        "protein": "AAA25966", 
+        "bitscore": 331.0, 
+        "eVal": 7.9e-94, 
+        "alignmentLength": 81, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1026": {
+        "protein": "AAB64315", 
+        "bitscore": 85.3, 
+        "eVal": 8.1e-21, 
+        "alignmentLength": 20, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8117": {
+        "protein": "CAA74140", 
+        "bitscore": 253.2, 
+        "eVal": 2.1e-70, 
+        "alignmentLength": 66, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8081": {
+        "protein": "CAA45199", 
+        "bitscore": 323.3, 
+        "eVal": 1.1e-91, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6294": {
+        "protein": "ACH70904", 
+        "bitscore": 167.9, 
+        "eVal": 2.7e-45, 
+        "alignmentLength": 45, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq335": {
+        "protein": "AAA24969", 
+        "bitscore": 103.2, 
+        "eVal": 1.9e-25, 
+        "alignmentLength": 25, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq525": {
+        "protein": "AAA32624", 
+        "bitscore": 118.0, 
+        "eVal": 2.7e-30, 
+        "alignmentLength": 30, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq135": {
+        "protein": "AAA24142", 
+        "bitscore": 136.7, 
+        "eVal": 5.8e-36, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7497": {
+        "protein": "AAC97205", 
+        "bitscore": 272.3, 
+        "eVal": 5.2e-76, 
+        "alignmentLength": 67, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8569": {
+        "protein": "ABS38337", 
+        "bitscore": 539.7, 
+        "eVal": 3.7e-156, 
+        "alignmentLength": 144, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10029": {
+        "protein": "ABG75784", 
+        "bitscore": 25.4, 
+        "eVal": 0.012, 
+        "alignmentLength": 23, 
+        "matrix": "PAM110", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10077": {
+        "protein": "AAR31603", 
+        "bitscore": 23.8, 
+        "eVal": 0.026, 
+        "alignmentLength": 17, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq239": {
+        "protein": "AAA24969", 
+        "bitscore": 79.7, 
+        "eVal": 2e-18, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq714": {
+        "protein": "AAA65607", 
+        "bitscore": 79.6, 
+        "eVal": 4.6e-19, 
+        "alignmentLength": 20, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7983": {
+        "protein": "CAA04196", 
+        "bitscore": 289.0, 
+        "eVal": 1.8e-81, 
+        "alignmentLength": 75, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10063": {
+        "protein": "BAB17681", 
+        "bitscore": 25.4, 
+        "eVal": 0.0073, 
+        "alignmentLength": 13, 
+        "matrix": "BLOSUM75", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7585": {
+        "protein": "AAQ92751", 
+        "bitscore": 313.8, 
+        "eVal": 2.1e-88, 
+        "alignmentLength": 80, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6343": {
+        "protein": "AEE27845", 
+        "bitscore": 125.3, 
+        "eVal": 5.2e-32, 
+        "alignmentLength": 34, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5637": {
+        "protein": "AAC97205", 
+        "bitscore": 243.8, 
+        "eVal": 1.8e-67, 
+        "alignmentLength": 65, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7651": {
+        "protein": "AAR37016", 
+        "bitscore": 322.9, 
+        "eVal": 6.9e-91, 
+        "alignmentLength": 83, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10069": {
+        "protein": "AAH69556", 
+        "bitscore": 21.4, 
+        "eVal": 0.11, 
+        "alignmentLength": 16, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10064": {
+        "protein": "AAC97205", 
+        "bitscore": 24.8, 
+        "eVal": 0.05, 
+        "alignmentLength": 19, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10065": {
+        "protein": "AAB03707", 
+        "bitscore": 22.8, 
+        "eVal": 0.23, 
+        "alignmentLength": 21, 
+        "matrix": "BLOSUM50", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6349": {
+        "protein": "AEE27845", 
+        "bitscore": 189.4, 
+        "eVal": 4.2e-51, 
+        "alignmentLength": 53, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6348": {
+        "protein": "AEE27845", 
+        "bitscore": 200.1, 
+        "eVal": 2.4e-54, 
+        "alignmentLength": 52, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10060": {
+        "protein": "CAA26230", 
+        "bitscore": 25.7, 
+        "eVal": 0.025, 
+        "alignmentLength": 30, 
+        "matrix": "BLOSUM55", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6450": {
+        "protein": "BAA32018", 
+        "bitscore": 222.5, 
+        "eVal": 2.5e-61, 
+        "alignmentLength": 65, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7461": {
+        "protein": "AAC78721", 
+        "bitscore": 343.5, 
+        "eVal": 1.3e-97, 
+        "alignmentLength": 91, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9142": {
+        "protein": "ABG75784", 
+        "bitscore": 841.4, 
+        "eVal": 0.0, 
+        "alignmentLength": 215, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5604": {
+        "protein": "AAC97205", 
+        "bitscore": 168.5, 
+        "eVal": 5.3e-45, 
+        "alignmentLength": 41, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq2105": {
+        "protein": "ABD49687", 
+        "bitscore": 112.4, 
+        "eVal": 4.6e-28, 
+        "alignmentLength": 32, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5084": {
+        "protein": "AAA24969", 
+        "bitscore": 139.9, 
+        "eVal": 2.6e-36, 
+        "alignmentLength": 39, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5089": {
+        "protein": "AAA24969", 
+        "bitscore": 168.2, 
+        "eVal": 9.3e-45, 
+        "alignmentLength": 45, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5524": {
+        "protein": "AAC17860", 
+        "bitscore": 156.4, 
+        "eVal": 8.7e-42, 
+        "alignmentLength": 46, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5939": {
+        "protein": "AAR37016", 
+        "bitscore": 173.5, 
+        "eVal": 3.5e-46, 
+        "alignmentLength": 44, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7345": {
+        "protein": "AAA42531", 
+        "bitscore": 331.0, 
+        "eVal": 4.7e-94, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7346": {
+        "protein": "AAA45888", 
+        "bitscore": 354.8, 
+        "eVal": 2.8e-101, 
+        "alignmentLength": 80, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq733": {
+        "protein": "AAA72732", 
+        "bitscore": 120.5, 
+        "eVal": 2.7e-31, 
+        "alignmentLength": 29, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10018": {
+        "protein": "BAA32018", 
+        "bitscore": 25.3, 
+        "eVal": 0.019, 
+        "alignmentLength": 15, 
+        "matrix": "BLOSUM70", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5798": {
+        "protein": "AAQ92751", 
+        "bitscore": 176.5, 
+        "eVal": 2.9e-47, 
+        "alignmentLength": 48, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq165": {
+        "protein": "AAA24969", 
+        "bitscore": 99.6, 
+        "eVal": 2.7e-24, 
+        "alignmentLength": 29, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7671": {
+        "protein": "AAX84812", 
+        "bitscore": 329.8, 
+        "eVal": 6.1e-94, 
+        "alignmentLength": 87, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8070": {
+        "protein": "CAA43372", 
+        "bitscore": 251.1, 
+        "eVal": 4.1e-70, 
+        "alignmentLength": 66, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7670": {
+        "protein": "AAX12058", 
+        "bitscore": 275.6, 
+        "eVal": 1.3e-77, 
+        "alignmentLength": 76, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7469": {
+        "protein": "AAC78721", 
+        "bitscore": 336.1, 
+        "eVal": 2.5e-95, 
+        "alignmentLength": 93, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7598": {
+        "protein": "AAR37016", 
+        "bitscore": 310.8, 
+        "eVal": 3e-87, 
+        "alignmentLength": 81, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5420": {
+        "protein": "AAB03707", 
+        "bitscore": 141.6, 
+        "eVal": 6.3e-37, 
+        "alignmentLength": 34, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq185": {
+        "protein": "AAA24969", 
+        "bitscore": 86.7, 
+        "eVal": 1.6e-20, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7908": {
+        "protein": "BAB17681", 
+        "bitscore": 348.9, 
+        "eVal": 1.3e-99, 
+        "alignmentLength": 92, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9087": {
+        "protein": "AAQ92751", 
+        "bitscore": 846.3, 
+        "eVal": 0.0, 
+        "alignmentLength": 247, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5669": {
+        "protein": "AAF01122", 
+        "bitscore": 192.0, 
+        "eVal": 2e-52, 
+        "alignmentLength": 55, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq635": {
+        "protein": "AAA45888", 
+        "bitscore": 92.2, 
+        "eVal": 9.5e-23, 
+        "alignmentLength": 25, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1575": {
+        "protein": "AAQ92751", 
+        "bitscore": 86.9, 
+        "eVal": 1.1e-20, 
+        "alignmentLength": 21, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq421": {
+        "protein": "AAA25966", 
+        "bitscore": 109.1, 
+        "eVal": 1.4e-27, 
+        "alignmentLength": 24, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7901": {
+        "protein": "BAA32956", 
+        "bitscore": 277.6, 
+        "eVal": 2.4e-78, 
+        "alignmentLength": 72, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1085": {
+        "protein": "AAC17860", 
+        "bitscore": 76.4, 
+        "eVal": 4.6e-18, 
+        "alignmentLength": 19, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7937": {
+        "protein": "BAB79260", 
+        "bitscore": 269.7, 
+        "eVal": 1.2e-75, 
+        "alignmentLength": 68, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5641": {
+        "protein": "AAC97205", 
+        "bitscore": 182.9, 
+        "eVal": 2.9e-49, 
+        "alignmentLength": 47, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7783": {
+        "protein": "ABS38337", 
+        "bitscore": 239.2, 
+        "eVal": 4.8e-66, 
+        "alignmentLength": 67, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9063": {
+        "protein": "AAC78721", 
+        "bitscore": 912.4, 
+        "eVal": 0.0, 
+        "alignmentLength": 223, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8295": {
+        "protein": "AAA45888", 
+        "bitscore": 565.4, 
+        "eVal": 2.1e-164, 
+        "alignmentLength": 152, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq24": {
+        "protein": "AAA18786", 
+        "bitscore": 85.9, 
+        "eVal": 4.3e-21, 
+        "alignmentLength": 20, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5644": {
+        "protein": "AAC97205", 
+        "bitscore": 159.0, 
+        "eVal": 4.3e-42, 
+        "alignmentLength": 45, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5405": {
+        "protein": "AAB03707", 
+        "bitscore": 188.3, 
+        "eVal": 9.3e-51, 
+        "alignmentLength": 55, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10076": {
+        "protein": "AAA45888", 
+        "bitscore": 26.7, 
+        "eVal": 0.0062, 
+        "alignmentLength": 32, 
+        "matrix": "PAM200", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10075": {
+        "protein": "BAA32018", 
+        "bitscore": 24.6, 
+        "eVal": 0.036, 
+        "alignmentLength": 21, 
+        "matrix": "blosum100", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5572": {
+        "protein": "AAC78721", 
+        "bitscore": 169.4, 
+        "eVal": 1.7e-45, 
+        "alignmentLength": 43, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5319": {
+        "protein": "AAA45888", 
+        "bitscore": 142.4, 
+        "eVal": 1.2e-37, 
+        "alignmentLength": 38, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10072": {
+        "protein": "AAR31603", 
+        "bitscore": 24.0, 
+        "eVal": 0.023, 
+        "alignmentLength": 15, 
+        "matrix": "PAM110", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1779": {
+        "protein": "AAR37016", 
+        "bitscore": 132.6, 
+        "eVal": 4.6e-34, 
+        "alignmentLength": 28, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10070": {
+        "protein": "BAA32956", 
+        "bitscore": 23.7, 
+        "eVal": 0.025, 
+        "alignmentLength": 25, 
+        "matrix": "BLOSUM35", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1939": {
+        "protein": "AAR37016", 
+        "bitscore": 97.3, 
+        "eVal": 1.6e-23, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5487": {
+        "protein": "AAB64315", 
+        "bitscore": 193.1, 
+        "eVal": 6.6e-53, 
+        "alignmentLength": 48, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5728": {
+        "protein": "AAI27517", 
+        "bitscore": 167.4, 
+        "eVal": 4.8e-45, 
+        "alignmentLength": 35, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq2052": {
+        "protein": "AAX84812", 
+        "bitscore": 93.2, 
+        "eVal": 2.7e-23, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5098": {
+        "protein": "AAA24969", 
+        "bitscore": 123.2, 
+        "eVal": 2.6e-31, 
+        "alignmentLength": 36, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7476": {
+        "protein": "AAC97205", 
+        "bitscore": 346.3, 
+        "eVal": 3.7e-98, 
+        "alignmentLength": 92, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq2117": {
+        "protein": "ABD49687", 
+        "bitscore": 72.7, 
+        "eVal": 2.4e-16, 
+        "alignmentLength": 19, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9176": {
+        "protein": "AII71783", 
+        "bitscore": 1318.4, 
+        "eVal": 0.0, 
+        "alignmentLength": 310, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9171": {
+        "protein": "AEE27845", 
+        "bitscore": 1232.4, 
+        "eVal": 0.0, 
+        "alignmentLength": 329, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7262": {
+        "protein": "AAA24969", 
+        "bitscore": 366.0, 
+        "eVal": 5.5e-104, 
+        "alignmentLength": 97, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7579": {
+        "protein": "AAQ92751", 
+        "bitscore": 286.9, 
+        "eVal": 2.7e-80, 
+        "alignmentLength": 77, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq216": {
+        "protein": "AAA24969", 
+        "bitscore": 69.9, 
+        "eVal": 1.5e-15, 
+        "alignmentLength": 19, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8218": {
+        "protein": "AAA24142", 
+        "bitscore": 509.9, 
+        "eVal": 1e-147, 
+        "alignmentLength": 130, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5940": {
+        "protein": "AAR37016", 
+        "bitscore": 197.6, 
+        "eVal": 2.2e-53, 
+        "alignmentLength": 52, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq80": {
+        "protein": "AAA23282", 
+        "bitscore": 106.6, 
+        "eVal": 6.6e-27, 
+        "alignmentLength": 25, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7473": {
+        "protein": "AAC78721", 
+        "bitscore": 239.8, 
+        "eVal": 1.7e-66, 
+        "alignmentLength": 70, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9114": {
+        "protein": "AAR37016", 
+        "bitscore": 1117.8, 
+        "eVal": 0.0, 
+        "alignmentLength": 261, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8061": {
+        "protein": "CAA26230", 
+        "bitscore": 398.3, 
+        "eVal": 3.9e-114, 
+        "alignmentLength": 98, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8062": {
+        "protein": "CAA26230", 
+        "bitscore": 305.5, 
+        "eVal": 2.8e-86, 
+        "alignmentLength": 81, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5039": {
+        "protein": "AAA23282", 
+        "bitscore": 219.2, 
+        "eVal": 2e-60, 
+        "alignmentLength": 60, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq356": {
+        "protein": "AAA25966", 
+        "bitscore": 118.3, 
+        "eVal": 2.9e-30, 
+        "alignmentLength": 29, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1255": {
+        "protein": "AAC97205", 
+        "bitscore": 129.8, 
+        "eVal": 1.8e-33, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1256": {
+        "protein": "AAC97205", 
+        "bitscore": 102.1, 
+        "eVal": 3e-25, 
+        "alignmentLength": 23, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7484": {
+        "protein": "AAC97205", 
+        "bitscore": 306.9, 
+        "eVal": 2.4e-86, 
+        "alignmentLength": 79, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9056": {
+        "protein": "AAB03707", 
+        "bitscore": 1032.7, 
+        "eVal": 0.0, 
+        "alignmentLength": 278, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5953": {
+        "protein": "AAR37016", 
+        "bitscore": 205.5, 
+        "eVal": 8.8e-56, 
+        "alignmentLength": 46, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7488": {
+        "protein": "AAC97205", 
+        "bitscore": 344.9, 
+        "eVal": 9.7e-98, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq359": {
+        "protein": "AAA25966", 
+        "bitscore": 98.2, 
+        "eVal": 2.4e-24, 
+        "alignmentLength": 21, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10056": {
+        "protein": "BAB79260", 
+        "bitscore": 23.6, 
+        "eVal": 0.096, 
+        "alignmentLength": 47, 
+        "matrix": "BLOSUM30", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10042": {
+        "protein": "AAA23282", 
+        "bitscore": 27.1, 
+        "eVal": 0.0099, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM75", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10043": {
+        "protein": "AAA23282", 
+        "bitscore": 27.8, 
+        "eVal": 0.0055, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM60", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7970": {
+        "protein": "BAE97662", 
+        "bitscore": 341.8, 
+        "eVal": 7.8e-97, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5654": {
+        "protein": "AAC97205", 
+        "bitscore": 235.8, 
+        "eVal": 4.3e-65, 
+        "alignmentLength": 59, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5307": {
+        "protein": "AAA45888", 
+        "bitscore": 175.1, 
+        "eVal": 1.9e-47, 
+        "alignmentLength": 43, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10045": {
+        "protein": "ABG75784", 
+        "bitscore": 21.0, 
+        "eVal": 0.51, 
+        "alignmentLength": 51, 
+        "matrix": "BLOSUM55", 
+        "translationTable": "Standard"
+    }, 
+    "Seq17": {
+        "protein": "AAA18786", 
+        "bitscore": 81.9, 
+        "eVal": 6.4e-20, 
+        "alignmentLength": 19, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1884": {
+        "protein": "AAR37016", 
+        "bitscore": 100.8, 
+        "eVal": 1.2e-24, 
+        "alignmentLength": 20, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10049": {
+        "protein": "AAC97205", 
+        "bitscore": 29.2, 
+        "eVal": 0.0055, 
+        "alignmentLength": 53, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5416": {
+        "protein": "AAB03707", 
+        "bitscore": 144.7, 
+        "eVal": 8.5e-38, 
+        "alignmentLength": 40, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5141": {
+        "protein": "AAA24969", 
+        "bitscore": 181.5, 
+        "eVal": 1.1e-48, 
+        "alignmentLength": 56, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1807": {
+        "protein": "AAR37016", 
+        "bitscore": 90.4, 
+        "eVal": 1.7e-21, 
+        "alignmentLength": 21, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7408": {
+        "protein": "AAB03707", 
+        "bitscore": 238.6, 
+        "eVal": 7.8e-66, 
+        "alignmentLength": 66, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5265": {
+        "protein": "AAA32624", 
+        "bitscore": 215.5, 
+        "eVal": 2.2e-59, 
+        "alignmentLength": 55, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7561": {
+        "protein": "AAQ92751", 
+        "bitscore": 294.1, 
+        "eVal": 1.8e-82, 
+        "alignmentLength": 78, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1397": {
+        "protein": "AAF01122", 
+        "bitscore": 123.8, 
+        "eVal": 3.6e-32, 
+        "alignmentLength": 31, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7274": {
+        "protein": "AAA24969", 
+        "bitscore": 320.7, 
+        "eVal": 2.2e-90, 
+        "alignmentLength": 84, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9161": {
+        "protein": "ACT10338", 
+        "bitscore": 1103.6, 
+        "eVal": 0.0, 
+        "alignmentLength": 274, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7270": {
+        "protein": "AAA24969", 
+        "bitscore": 288.3, 
+        "eVal": 1.2e-80, 
+        "alignmentLength": 84, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8348": {
+        "protein": "AAB96524", 
+        "bitscore": 402.8, 
+        "eVal": 6e-116, 
+        "alignmentLength": 101, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6387": {
+        "protein": "AEE27845", 
+        "bitscore": 203.5, 
+        "eVal": 2.4e-55, 
+        "alignmentLength": 53, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7230": {
+        "protein": "AAA24142", 
+        "bitscore": 369.5, 
+        "eVal": 1.4e-105, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq995": {
+        "protein": "AAB26998", 
+        "bitscore": 127.6, 
+        "eVal": 5.2e-34, 
+        "alignmentLength": 29, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6383": {
+        "protein": "AEE27845", 
+        "bitscore": 163.0, 
+        "eVal": 2.7e-43, 
+        "alignmentLength": 39, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6382": {
+        "protein": "AEE27845", 
+        "bitscore": 244.0, 
+        "eVal": 1.7e-67, 
+        "alignmentLength": 61, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6339": {
+        "protein": "AEE27845", 
+        "bitscore": 176.8, 
+        "eVal": 2.6e-47, 
+        "alignmentLength": 53, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6380": {
+        "protein": "AEE27845", 
+        "bitscore": 194.7, 
+        "eVal": 1.1e-52, 
+        "alignmentLength": 56, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7885": {
+        "protein": "BAA32018", 
+        "bitscore": 313.7, 
+        "eVal": 1.2e-88, 
+        "alignmentLength": 86, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq517": {
+        "protein": "AAA32624", 
+        "bitscore": 123.1, 
+        "eVal": 7.4e-32, 
+        "alignmentLength": 28, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq9101": {
+        "protein": "AAR37016", 
+        "bitscore": 1173.7, 
+        "eVal": 0.0, 
+        "alignmentLength": 261, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8056": {
+        "protein": "CAA26230", 
+        "bitscore": 358.5, 
+        "eVal": 3.5e-102, 
+        "alignmentLength": 91, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6057": {
+        "protein": "ABD49687", 
+        "bitscore": 245.6, 
+        "eVal": 7.4e-68, 
+        "alignmentLength": 65, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10041": {
+        "protein": "AAA23282", 
+        "bitscore": 27.7, 
+        "eVal": 0.0066, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM60", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5075": {
+        "protein": "AAA24142", 
+        "bitscore": 219.8, 
+        "eVal": 9.9e-61, 
+        "alignmentLength": 55, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7715": {
+        "protein": "ABD49687", 
+        "bitscore": 334.3, 
+        "eVal": 2.1e-94, 
+        "alignmentLength": 89, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7714": {
+        "protein": "ABD49687", 
+        "bitscore": 241.8, 
+        "eVal": 1.2e-66, 
+        "alignmentLength": 70, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7960": {
+        "protein": "BAE97662", 
+        "bitscore": 343.2, 
+        "eVal": 3e-97, 
+        "alignmentLength": 96, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10047": {
+        "protein": "AAC97205", 
+        "bitscore": 29.3, 
+        "eVal": 0.0035, 
+        "alignmentLength": 22, 
+        "matrix": "PAM200", 
+        "translationTable": "Standard"
+    }, 
+    "Seq613": {
+        "protein": "AAA42531", 
+        "bitscore": 124.5, 
+        "eVal": 2.4e-32, 
+        "alignmentLength": 32, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7967": {
+        "protein": "BAE97662", 
+        "bitscore": 302.8, 
+        "eVal": 3.7e-85, 
+        "alignmentLength": 79, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq690": {
+        "protein": "AAA65607", 
+        "bitscore": 80.3, 
+        "eVal": 2.6e-19, 
+        "alignmentLength": 18, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10054": {
+        "protein": "AAR31603", 
+        "bitscore": 32.0, 
+        "eVal": 0.00021, 
+        "alignmentLength": 20, 
+        "matrix": "BLOSUM70", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5576": {
+        "protein": "AAC78721", 
+        "bitscore": 186.1, 
+        "eVal": 1.9e-50, 
+        "alignmentLength": 52, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10051": {
+        "protein": "AAA42531", 
+        "bitscore": 23.6, 
+        "eVal": 0.04, 
+        "alignmentLength": 26, 
+        "matrix": "BLOSUM80", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10050": {
+        "protein": "AAC97205", 
+        "bitscore": 24.0, 
+        "eVal": 0.1, 
+        "alignmentLength": 19, 
+        "matrix": "PAM200", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1111": {
+        "protein": "AAC17860", 
+        "bitscore": 70.6, 
+        "eVal": 2.4e-16, 
+        "alignmentLength": 18, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq10052": {
+        "protein": "AAC97205", 
+        "bitscore": 29.2, 
+        "eVal": 0.0057, 
+        "alignmentLength": 53, 
+        "matrix": "BLOSUM40", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6279": {
+        "protein": "ACH70904", 
+        "bitscore": 182.8, 
+        "eVal": 9.1e-50, 
+        "alignmentLength": 47, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5578": {
+        "protein": "AAC78721", 
+        "bitscore": 212.6, 
+        "eVal": 2.2e-58, 
+        "alignmentLength": 59, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6433": {
+        "protein": "AIR13712", 
+        "bitscore": 185.2, 
+        "eVal": 2e-50, 
+        "alignmentLength": 57, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq5567": {
+        "protein": "AAC78721", 
+        "bitscore": 226.5, 
+        "eVal": 1.5e-62, 
+        "alignmentLength": 59, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq117": {
+        "protein": "AAA24142", 
+        "bitscore": 118.2, 
+        "eVal": 1.9e-30, 
+        "alignmentLength": 29, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq8353": {
+        "protein": "AAC17860", 
+        "bitscore": 606.1, 
+        "eVal": 1.4e-176, 
+        "alignmentLength": 169, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1816": {
+        "protein": "AAR37016", 
+        "bitscore": 76.8, 
+        "eVal": 1.7e-17, 
+        "alignmentLength": 17, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq6364": {
+        "protein": "AEE27845", 
+        "bitscore": 206.2, 
+        "eVal": 3.4e-56, 
+        "alignmentLength": 49, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7410": {
+        "protein": "AAB03707", 
+        "bitscore": 305.7, 
+        "eVal": 6.3e-86, 
+        "alignmentLength": 84, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7414": {
+        "protein": "AAB03707", 
+        "bitscore": 363.6, 
+        "eVal": 2.7e-103, 
+        "alignmentLength": 96, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1383": {
+        "protein": "AAF01122", 
+        "bitscore": 82.5, 
+        "eVal": 6.7e-20, 
+        "alignmentLength": 21, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq7319": {
+        "protein": "AAA32624", 
+        "bitscore": 321.0, 
+        "eVal": 6.5e-91, 
+        "alignmentLength": 90, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }, 
+    "Seq1381": {
+        "protein": "AAF01122", 
+        "bitscore": 117.7, 
+        "eVal": 2.4e-30, 
+        "alignmentLength": 30, 
+        "matrix": "PAM10", 
+        "translationTable": "Standard"
+    }
 }

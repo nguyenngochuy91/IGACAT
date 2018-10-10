@@ -13,6 +13,9 @@ from Bio.Data import CodonTable
 import os
 import json
 import time
+from collections import OrderedDict
+from sklearn.metrics import precision_recall_fscore_support as score
+from sklearn.metrics import classification_report
 #this function will return all of the files that are in a directory. os.walk is recursive traversal.
 def returnRecursiveDirFiles(root_dir):
     result = []
@@ -117,7 +120,7 @@ def getStandard():
         
         if seqName in dictionary:
             currentInfo = dictionary[seqName]
-            if output[1]>= currentInfo[1] and output[2]<=currentInfo[2]:
+            if output["bitscore"]>= currentInfo["bitscore"] and output["eVal"]<=currentInfo["eVal"] and output["alignmentLength"]>= currentInfo["alignmentLength"]:
                 dictionary[seqName] = output
         else:
 
@@ -134,17 +137,21 @@ def getBest(path):
     translationTable = path.split("/")[-2]
     infile = open(path,"r")
     currentMin = 10000
-    currentMax = 0
+    currentBitScore = 0
+    currentLength = 0
     output = None
     for line in infile.readlines():
         line = line.split('\t')
         protein = line[1].split('|')[-1].split(".")[0]
-        percentId = float(line[2])
+        bitscore = float(line[-1])
         eVal      = float(line[-2])
-        if eVal<=currentMin and percentId>=currentMax: 
-            output = (protein,percentId,eVal,matrix,translationTable)
-            currentMin = eval
-            currentMax = percentId
+        length    = int(line[3])
+        if eVal<=currentMin and bitscore>=currentBitScore and length>=currentLength: 
+            output = OrderedDict([("protein",protein),("bitscore",bitscore),("eVal",eVal),
+                      ("alignmentLength",length),("matrix",matrix),("translationTable",translationTable)])
+            currentMin = eVal
+            currentBitScore = bitscore
+            currentLength          =  length
     infile.close()
     return output
 
@@ -163,7 +170,7 @@ def getDictionary():
         
         if seqName in dictionary:
             currentInfo = dictionary[seqName]
-            if output[1]>= currentInfo[1] and output[2]<=currentInfo[2]:
+            if output["bitscore"]>= currentInfo["bitscore"] and output["eVal"]<=currentInfo["eVal"] and output["alignmentLength"]>= currentInfo["alignmentLength"]:
                 dictionary[seqName] = output
         else:
 
@@ -176,63 +183,137 @@ def getDictionary():
 def compare(seqToProtein,reduceKey):
     count = 0
     missing = []
+    dic = {}
+    translationTable = {}
+    subsMatrix       = {}
     for k in seqToProtein:
 #        print (reduceKey[k],seqToProtein[k])
-        if reduceKey[k] in seqToProtein[k][0]:
+        if reduceKey[k] in seqToProtein[k]["protein"]:
             count+=1
+            if reduceKey[k] in dic:
+                dic[reduceKey[k]]+=1
+            else:
+                dic[reduceKey[k]]=1
+            transT = seqToProtein[k]["translationTable"]
+            subsT  = seqToProtein[k]["matrix"]
+            if transT in translationTable:
+                translationTable[transT]+=1
+            else:
+                translationTable[transT]=1
+            if subsT in subsMatrix:
+                subsMatrix[subsT]+=1
+            else:
+                subsMatrix[subsT]=1
         else:
-            missing.append([k,reduceKey[k],seqToProtein[k][2]])
-    return float(count)/len(seqToProtein),missing
+            missing.append([k,reduceKey[k],seqToProtein[k]])
+    return float(count)/len(seqToProtein),missing,dic,translationTable,subsMatrix
+
+
+###############################################################################
+## function to analyze the final file
+
 def main():
     start = time.time()
-    translation,genes = getInfo()
-    writeTranslation(translation,genes)
-    substitutionMatrixFiles = returnRecursiveDirFiles("substitutions")
-    fragments               = returnRecursiveDirFiles("fragments")
-    genePath                = "phaseI_midyearpulse_whole_aa.fasta"
-    # generate the alignment 
-    for pathToFrag in fragments:
-        infoToFrag = pathToFrag.split("/")
-        for pathSubMatrix in substitutionMatrixFiles:
-            matrixName       = pathSubMatrix.split("/")[-1]
-            fragmentName     = infoToFrag[-1].replace(".fasta","")
-            translatioNTable = infoToFrag[1]
-            dir  = "/home/huyn/IGACAT/alignments/{}/".format(translatioNTable.replace(" ","_")+"/")
-            try:
-                os.mkdir(dir)
-            except:
-                pass
-            name = "{}{}_{}".format(dir,fragmentName,matrixName)
-            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
-            print ("Working on {} ...".format(cmd))
-            os.system(cmd)
-    
-    
+#    translation,genes = getInfo()
+#    writeTranslation(translation,genes)
+#    substitutionMatrixFiles = returnRecursiveDirFiles("substitutions")
+#    fragments               = returnRecursiveDirFiles("fragments")
+#    genePath                = "phaseI_midyearpulse_whole_aa.fasta"
+#    # generate the alignment 
+#    for pathToFrag in fragments:
+#        infoToFrag = pathToFrag.split("/")
+#        for pathSubMatrix in substitutionMatrixFiles:
+#            matrixName       = pathSubMatrix.split("/")[-1]
+#            fragmentName     = infoToFrag[-1].replace(".fasta","")
+#            translatioNTable = infoToFrag[1]
+#            dir  = "/home/huyn/IGACAT/alignments/{}/".format(translatioNTable.replace(" ","_")+"/")
+#            try:
+#                os.mkdir(dir)
+#            except:
+#                pass
+#            name = "{}{}_{}".format(dir,fragmentName,matrixName)
+#            cmd  = "ssearch36 -T 8 -m 8 -s {} {} {} > {}".format(pathSubMatrix,pathToFrag,genePath,name)
+#            print ("Working on {} ...".format(cmd))
+#            os.system(cmd)
+#    
+#    
 #     for each protein in they key, get the threat bin of it
-    binsThreat = getThreatBin()
-
-    # from the above, map seq to Threat
-#    seqToThreat = mapSeqThreat(binsThreat,dictionary)
-    
-    
+#    binsThreat = getThreatBin()
+#
+#    # from the above, map seq to Threat
+##    seqToThreat = mapSeqThreat(binsThreat,dictionary)
+#    
+#    
     # standard table
-    standard    = getStandard()
-    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
-    dictionary = getDictionary()
+#    standard    = getStandard()
+#    # from our alignment of different translation table, and different subs matrix, store the best in seqToProteinInfo.txt    
+#    dictionary = getDictionary()
     seqToProtein = json.load(open("seqToProtein.txt","r"))
-    seqToProteinStandard = json.load(open("seqToProteinStandard.txt","r"))
+#    seqToProteinStandard = json.load(open("seqToProteinStandard.txt","r"))
     # getting the key result, to make comparison
     k = Keys("phaseI_midyearpulse_selected_seqs_key_final.txt")
+    # geneName 
+    geneNames = {}
     # what we really interested only mapping fragment seq to original gene
     reduceKey = {}
+    binThreat = {}
     for item in k.record:
         reduceKey[item["SeqID"]] = item['Gene']
+        geneNames[item['Gene']]  = item['Name']
+        binThreat[item['Gene']]  = item['Threat Bin'] 
     # compare between only using the standard translation and the key
-    accuracyStandard,missingStandard = compare(seqToProteinStandard,reduceKey)
-    print ("accuracyStandard:",accuracyStandard)
+#    accuracyStandard,missingStandard = compare(seqToProteinStandard,reduceKey)
+#    print ("accuracyStandard:",accuracyStandard)
     # compare between only using all translation table and the key
-    accuracyAll,missing = compare(seqToProtein,reduceKey)
-    print ("accuracyAll:",accuracyAll)
+    accuracyAll,missing,proteinDict,translationTable,subsMatrix = compare(seqToProtein,reduceKey)
     stop = time.time()
     print ("Wow!, it took us {} secons".format(stop-start))
-main()
+    
+    
+    # analyze
+    y_pred    = []
+    y_true    = []
+    genes     = [gene for gene in geneNames]
+    bins      = []
+    for gene in reduceKey:
+        y_true.append(reduceKey[gene])
+        y_pred.append(seqToProtein[gene]['protein'])
+#        bins.append()
+    result = classification_report(y_true, y_pred,output_dict=True)
+    outfile = open("analyze.txt","w")
+    # write the headlines
+    outfile.write("Precision and recall Table \n")
+    outfile.write("\t\t\t precision \t recall \t f1-score \t support \t bin \t name\n")
+    # wrtie the gene
+    avg =  ['macro avg','micro avg','weighted avg']
+    for gene in result:
+        if gene not in avg:
+            outfile.write("{}\t\t\t{}\t\t{}\t\t\t{}\t\t\t{}\t\t{}\t\t{}\n".format(gene,
+                          result[gene]['precision'],
+                          result[gene]['recall'],
+                          result[gene]['f1-score'],
+                          result[gene]['support'],
+                          binThreat[gene],
+                          geneNames[gene]))
+    for item in avg:
+        outfile.write("{} \t {} \t {} \t {} \t {}\n".format(item,
+                          result[item]['precision'],
+                          result[item]['recall'],
+                          result[item]['f1-score'],
+                          result[item]['support']))
+    proteins = sorted(proteinDict,key= lambda x: proteinDict[x], reverse= True)
+    transTables = sorted(translationTable,key= lambda x: translationTable[x], reverse= True)
+    subsTables  = sorted(subsMatrix,key= lambda x: subsMatrix[x], reverse= True)
+    
+    outfile.write("\n")
+    for p in proteins:
+        outfile.write("{} : {}\n".format(p,proteinDict[p]))
+    outfile.write("\n")
+    for t in transTables:
+        outfile.write("{} : {}\n".format(t,translationTable[t]))
+    outfile.write("\n")
+    for s in subsTables:
+        outfile.write("{} : {}\n".format(s,subsMatrix[s]))
+    outfile.close()
+    return geneNames,missing,result,proteinDict,translationTable,subsTables
+geneNames,missing,result,proteinDict,translationTable,subsTables = main()

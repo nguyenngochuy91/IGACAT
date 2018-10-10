@@ -1,0 +1,614 @@
+[
+    [
+        "Seq10076", 
+        "AAC17860", 
+        {
+            "bitscore": 27.1, 
+            "alignmentLength": 43, 
+            "eVal": 0.005, 
+            "translationTable": "Yeast_Mitochondrial", 
+            "protein": "AAR31603", 
+            "matrix": "PAM200"
+        }
+    ], 
+    [
+        "Seq10006", 
+        "AAA24969", 
+        {
+            "bitscore": 31.2, 
+            "alignmentLength": 12, 
+            "eVal": 2.2e-05, 
+            "translationTable": "Thraustochytrium_Mitochondrial", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM50"
+        }
+    ], 
+    [
+        "Seq10020", 
+        "AAA24969", 
+        {
+            "bitscore": 29.8, 
+            "alignmentLength": 59, 
+            "eVal": 0.0017, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10022", 
+        "AAA24969", 
+        {
+            "bitscore": 30.3, 
+            "alignmentLength": 59, 
+            "eVal": 0.0012, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10023", 
+        "AAA24969", 
+        {
+            "bitscore": 29.4, 
+            "alignmentLength": 59, 
+            "eVal": 0.0022, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10025", 
+        "AAA24969", 
+        {
+            "bitscore": 30.9, 
+            "alignmentLength": 59, 
+            "eVal": 0.00079, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10026", 
+        "AAA24969", 
+        {
+            "bitscore": 29.4, 
+            "alignmentLength": 59, 
+            "eVal": 0.002, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10027", 
+        "AAA24969", 
+        {
+            "bitscore": 31.6, 
+            "alignmentLength": 44, 
+            "eVal": 0.0003, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10082", 
+        "CAD53387", 
+        {
+            "bitscore": 29.9, 
+            "alignmentLength": 154, 
+            "eVal": 0.02, 
+            "translationTable": "Condylostoma_Nuclear", 
+            "protein": "AAR37016", 
+            "matrix": "BLOSUM55"
+        }
+    ], 
+    [
+        "Seq10080", 
+        "EDO47375", 
+        {
+            "bitscore": 24.1, 
+            "alignmentLength": 31, 
+            "eVal": 0.037, 
+            "translationTable": "Echinoderm_Mitochondrial", 
+            "protein": "AAA45888", 
+            "matrix": "BLOSUM80"
+        }
+    ], 
+    [
+        "Seq10032", 
+        "AAB64315", 
+        {
+            "bitscore": 29.7, 
+            "alignmentLength": 72, 
+            "eVal": 0.003, 
+            "translationTable": "Blastocrithidia_Nuclear", 
+            "protein": "AAI27517", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10031", 
+        "AAB64315", 
+        {
+            "bitscore": 27.0, 
+            "alignmentLength": 29, 
+            "eVal": 0.031, 
+            "translationTable": "Euplotid_Nuclear", 
+            "protein": "AAR37016", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10030", 
+        "AAB64315", 
+        {
+            "bitscore": 25.2, 
+            "alignmentLength": 23, 
+            "eVal": 0.01, 
+            "translationTable": "Trematode_Mitochondrial", 
+            "protein": "AAX84812", 
+            "matrix": "BLOSUM35"
+        }
+    ], 
+    [
+        "Seq10035", 
+        "AAB64315", 
+        {
+            "bitscore": 27.5, 
+            "alignmentLength": 21, 
+            "eVal": 0.0033, 
+            "translationTable": "SGC9", 
+            "protein": "AAA42531", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10034", 
+        "AAB64315", 
+        {
+            "bitscore": 29.2, 
+            "alignmentLength": 46, 
+            "eVal": 0.005, 
+            "translationTable": "Euplotid_Nuclear", 
+            "protein": "AAC97205", 
+            "matrix": "BLOSUM35"
+        }
+    ], 
+    [
+        "Seq10070", 
+        "AAC17860", 
+        {
+            "bitscore": 30.5, 
+            "alignmentLength": 58, 
+            "eVal": 0.00075, 
+            "translationTable": "Euplotid_Nuclear", 
+            "protein": "AAR31603", 
+            "matrix": "BLOSUM55"
+        }
+    ], 
+    [
+        "Seq10054", 
+        "AAC97205", 
+        {
+            "bitscore": 33.1, 
+            "alignmentLength": 20, 
+            "eVal": 9.7e-05, 
+            "translationTable": "Mycoplasma", 
+            "protein": "AAR31603", 
+            "matrix": "BLOSUM75"
+        }
+    ], 
+    [
+        "Seq10007", 
+        "AAA24969", 
+        {
+            "bitscore": 31.8, 
+            "alignmentLength": 12, 
+            "eVal": 1.5e-05, 
+            "translationTable": "Archaeal", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM90"
+        }
+    ], 
+    [
+        "Seq10002", 
+        "AAA24969", 
+        {
+            "bitscore": 32.6, 
+            "alignmentLength": 11, 
+            "eVal": 8.7e-06, 
+            "translationTable": "SGC5", 
+            "protein": "BAA32991", 
+            "matrix": "PAM140"
+        }
+    ], 
+    [
+        "Seq10003", 
+        "AAA24969", 
+        {
+            "bitscore": 30.3, 
+            "alignmentLength": 107, 
+            "eVal": 0.007, 
+            "translationTable": "Hexamita_Nuclear", 
+            "protein": "AAB03707", 
+            "matrix": "BLOSUM40"
+        }
+    ], 
+    [
+        "Seq10001", 
+        "AAA24969", 
+        {
+            "bitscore": 24.7, 
+            "alignmentLength": 36, 
+            "eVal": 0.0057, 
+            "translationTable": "Hexamita_Nuclear", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10009", 
+        "AAA24969", 
+        {
+            "bitscore": 31.1, 
+            "alignmentLength": 12, 
+            "eVal": 2.3e-05, 
+            "translationTable": "Dasycladacean_Nuclear", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM55"
+        }
+    ], 
+    [
+        "Seq10019", 
+        "AAA24969", 
+        {
+            "bitscore": 29.8, 
+            "alignmentLength": 59, 
+            "eVal": 0.0017, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10011", 
+        "AAA24969", 
+        {
+            "bitscore": 31.6, 
+            "alignmentLength": 12, 
+            "eVal": 1.7e-05, 
+            "translationTable": "Scenedesmus_obliquus_Mitochondrial", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM50"
+        }
+    ], 
+    [
+        "Seq10010", 
+        "AAA24969", 
+        {
+            "bitscore": 32.7, 
+            "alignmentLength": 11, 
+            "eVal": 7.7e-06, 
+            "translationTable": "Blepharisma_Macronuclear", 
+            "protein": "BAA32991", 
+            "matrix": "PAM140"
+        }
+    ], 
+    [
+        "Seq10013", 
+        "AAA24969", 
+        {
+            "bitscore": 28.7, 
+            "alignmentLength": 53, 
+            "eVal": 0.0031, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA24142", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10017", 
+        "AAA24969", 
+        {
+            "bitscore": 28.6, 
+            "alignmentLength": 24, 
+            "eVal": 0.00082, 
+            "translationTable": "Pterobranchia_Mitochondrial", 
+            "protein": "BAB17681", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10016", 
+        "AAA24969", 
+        {
+            "bitscore": 29.1, 
+            "alignmentLength": 21, 
+            "eVal": 0.0006, 
+            "translationTable": "SGC2", 
+            "protein": "AAX84812", 
+            "matrix": "BLOSUM60"
+        }
+    ], 
+    [
+        "Seq10052", 
+        "AAC97205", 
+        {
+            "bitscore": 33.1, 
+            "alignmentLength": 20, 
+            "eVal": 9.9e-05, 
+            "translationTable": "SGC4", 
+            "protein": "AAR31603", 
+            "matrix": "BLOSUM75"
+        }
+    ], 
+    [
+        "Seq10069", 
+        "AAX12058", 
+        {
+            "bitscore": 21.0, 
+            "alignmentLength": 19, 
+            "eVal": 0.15, 
+            "translationTable": "Alternative_Flatworm_Mitochondrial", 
+            "protein": "AAH69556", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10064", 
+        "ABD33854", 
+        {
+            "bitscore": 26.2, 
+            "alignmentLength": 19, 
+            "eVal": 0.02, 
+            "translationTable": "Candidate_Division_SR1", 
+            "protein": "AAC97205", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10065", 
+        "AAX12058", 
+        {
+            "bitscore": 27.9, 
+            "alignmentLength": 38, 
+            "eVal": 0.0032, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "AAA72732", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10066", 
+        "AAX12058", 
+        {
+            "bitscore": 30.5, 
+            "alignmentLength": 37, 
+            "eVal": 0.00031, 
+            "translationTable": "Ciliate_Nuclear", 
+            "protein": "EDO47375", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10060", 
+        "BAA32956", 
+        {
+            "bitscore": 29.6, 
+            "alignmentLength": 11, 
+            "eVal": 0.00043, 
+            "translationTable": "Ciliate_Nuclear", 
+            "protein": "AAA32624", 
+            "matrix": "BLOSUM35"
+        }
+    ], 
+    [
+        "Seq10063", 
+        "BAA32956", 
+        {
+            "bitscore": 26.3, 
+            "alignmentLength": 13, 
+            "eVal": 0.0029, 
+            "translationTable": "Thraustochytrium_Mitochondrial", 
+            "protein": "BAB17681", 
+            "matrix": "BLOSUM60"
+        }
+    ], 
+    [
+        "Seq10018", 
+        "AAA24969", 
+        {
+            "bitscore": 26.7, 
+            "alignmentLength": 34, 
+            "eVal": 0.007, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "ABK71357", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10029", 
+        "AAA24969", 
+        {
+            "bitscore": 26.5, 
+            "alignmentLength": 23, 
+            "eVal": 0.0058, 
+            "translationTable": "Protozoan_Mitochondrial", 
+            "protein": "ABG75784", 
+            "matrix": "PAM110"
+        }
+    ], 
+    [
+        "Seq10051", 
+        "AAC97205", 
+        {
+            "bitscore": 27.5, 
+            "alignmentLength": 32, 
+            "eVal": 0.0039, 
+            "translationTable": "Karyorelict_Nuclear", 
+            "protein": "CAA43372", 
+            "matrix": "blosum100"
+        }
+    ], 
+    [
+        "Seq10077", 
+        "AAC17860", 
+        {
+            "bitscore": 26.9, 
+            "alignmentLength": 23, 
+            "eVal": 0.0032, 
+            "translationTable": "Ascidian_Mitochondrial", 
+            "protein": "AAR31603", 
+            "matrix": "PAM200"
+        }
+    ], 
+    [
+        "Seq10075", 
+        "AAC17860", 
+        {
+            "bitscore": 31.4, 
+            "alignmentLength": 45, 
+            "eVal": 0.00036, 
+            "translationTable": "Euplotid_Nuclear", 
+            "protein": "AAR31603", 
+            "matrix": "BLOSUM50"
+        }
+    ], 
+    [
+        "Seq10073", 
+        "AAC17860", 
+        {
+            "bitscore": 23.2, 
+            "alignmentLength": 20, 
+            "eVal": 0.074, 
+            "translationTable": "Mesodinium_Nuclear", 
+            "protein": "CAD53387", 
+            "matrix": "BLOSUM40"
+        }
+    ], 
+    [
+        "Seq10072", 
+        "AAC17860", 
+        {
+            "bitscore": 31.3, 
+            "alignmentLength": 58, 
+            "eVal": 0.00042, 
+            "translationTable": "SGC9", 
+            "protein": "AAR31603", 
+            "matrix": "BLOSUM50"
+        }
+    ], 
+    [
+        "Seq10042", 
+        "AAC97205", 
+        {
+            "bitscore": 31.4, 
+            "alignmentLength": 122, 
+            "eVal": 0.0017, 
+            "translationTable": "Blastocrithidia_Nuclear", 
+            "protein": "CAA45199", 
+            "matrix": "PAM200"
+        }
+    ], 
+    [
+        "Seq10005", 
+        "AAA24969", 
+        {
+            "bitscore": 31.0, 
+            "alignmentLength": 12, 
+            "eVal": 2.6e-05, 
+            "translationTable": "Plant_Plastid", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM50"
+        }
+    ], 
+    [
+        "Seq10045", 
+        "AAC97205", 
+        {
+            "bitscore": 29.5, 
+            "alignmentLength": 33, 
+            "eVal": 0.00016, 
+            "translationTable": "Ascidian_Mitochondrial", 
+            "protein": "BAA32991", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10049", 
+        "AAC97205", 
+        {
+            "bitscore": 30.0, 
+            "alignmentLength": 73, 
+            "eVal": 0.0083, 
+            "translationTable": "Gracilibacteria", 
+            "protein": "AAR37016", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10043", 
+        "AAC97205", 
+        {
+            "bitscore": 28.5, 
+            "alignmentLength": 63, 
+            "eVal": 0.0019, 
+            "translationTable": "Dasycladacean_Nuclear", 
+            "protein": "BAA32956", 
+            "matrix": "BLOSUM35"
+        }
+    ], 
+    [
+        "Seq10041", 
+        "AAC97205", 
+        {
+            "bitscore": 28.5, 
+            "alignmentLength": 63, 
+            "eVal": 0.002, 
+            "translationTable": "Hexamita_Nuclear", 
+            "protein": "BAA32956", 
+            "matrix": "BLOSUM35"
+        }
+    ], 
+    [
+        "Seq10047", 
+        "AAC97205", 
+        {
+            "bitscore": 31.0, 
+            "alignmentLength": 139, 
+            "eVal": 0.0024, 
+            "translationTable": "Condylostoma_Nuclear", 
+            "protein": "AAA25966", 
+            "matrix": "BLOSUM30"
+        }
+    ], 
+    [
+        "Seq10056", 
+        "AAC97205", 
+        {
+            "bitscore": 33.2, 
+            "alignmentLength": 20, 
+            "eVal": 8.9e-05, 
+            "translationTable": "SGC4", 
+            "protein": "AAR31603", 
+            "matrix": "BLOSUM75"
+        }
+    ], 
+    [
+        "Seq10050", 
+        "AAC97205", 
+        {
+            "bitscore": 26.5, 
+            "alignmentLength": 21, 
+            "eVal": 0.0044, 
+            "translationTable": "Alternative_Yeast_Nuclear", 
+            "protein": "AAA72732", 
+            "matrix": "blosum100"
+        }
+    ]
+]
