@@ -49,3 +49,21 @@ Each of the file is in fasta format, the id for example could be **Seq5405_166_b
 means almost the same thing except **1_2_2** indicates this is on normal strand, reading frame 3, and the **third** index in the list.
 The reason for this is there might be stop codon in the middle of the fragment when translating.
 
+I also generate an **analyze.csv** file, there are 4 tables. 
+1. Precions and Recal table: This table has 7 columns
+    * Column **protein** stores the protein ID.
+    * Column **precision** stores the precision value of the protein ID.
+    * Column **recall** stores the recall value of the protein ID.
+    * Column **f1-score** stores the f1-score of the protein ID.
+    * Column **support** stores the support value (number of permuted fragement mapped to this protein ID).
+    * Column **bin** stores the bin threat of the protein ID.
+    * Column **name** stores the protein name of the protein ID.
+2. Protein table: This table has 2 columns. 
+    * Column **protein** stores the protein ID.
+    * Column **count** stores the number of time such protein ID
+3. Translation table: This table has 2 columns. 
+    * Column **translationTable** stores the name of translation table.
+    * Column **count** stores the number of time the translation table was used correctly.
+4. Substitution table: This table has 2 columns. 
+    * Column **subsTable** stores the name of substitution table.
+    * Column **count** stores the number of time the substitution table was used correctly.     
