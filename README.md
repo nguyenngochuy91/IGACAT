@@ -35,10 +35,6 @@ python solve.py
 ```
 The script was quickly written to serve the purpose of getting result,
 I will reformat and structure it soon.  
-The alignment part and the part to pick out the best result were commented out for time consumming reason.
-You are more welcome to run those part. The alignment parts start from line 194-208. The analizing parts start start from 218-221.
-What the current script does is to read from file seqToProteinStandard.txt (result of using only the standard translation table)
- and seqToProtein.txt(result using all translation table), and compare them with the key.
 
 seqToProteinStandard.txt file is a dictionary, the key is the fragment sequence (permuted), the value is an array of this format 
 (originalProtein,percentIdentity,evalue,substitutionMatrix,TranslationTable). 
